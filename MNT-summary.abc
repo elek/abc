@@ -1,3 +1,5 @@
+I:abc-charset utf-8
+
 X:1
 T: Hüccs ki, disznó
 K: F
@@ -242,7 +244,7 @@ L: 1/4
 g/d/ d d/B/ B | d<d f2 | 
 g/d/ d d/B/ B | d<c B2 | 
 d/c/d/c/ B/A/G/F/ | G<A B2 | 
-d/c/d/c/B/A/G/F/ | A<G G2 | 
+d/c/d/c/ B/A/G/F/ | A<G G2 | 
 
 X:26
 T: Leszedik a szőlőt nemsokára...
@@ -677,4 +679,1128 @@ Bcdd | ddgg |
 fedc | ccdB | 
 Bcdd | ddgg | 
 fedc | ccdB | 
-B/c/ d/B/ c/A/ A/B/ | A<G G z
+B/c/ d/B/ c/A/ A/B/ | A<G G z | 
+
+X:68
+T: Vígan, vígan, víg angyalom
+K: F
+M: 4/4
+L: 1/4
+GGgg | aagg | fff2 | 
+aagg | ffee | ddd2 | 
+fff_e | dddc | BBB2 | 
+dddc | BBAA | GGG2 | 
+
+X:69
+T: Édesanyám, ha megumtál tartani...
+K: F
+M: 4/4
+L: 1/4
+GGgg | aagg | fff2 | 
+aagg | ffee | ddd2 | 
+fff_e | dddc | BBB2 | 
+dddc | BBAA | GGG2 | 
+
+X:70
+T: Mulik Ilon lepedője (2)
+K: Bb
+M: 3/4
+L: 1/4
+d/g/ g g | g/a/ f f | 
+g/a/ g f | d/c/ d d | 
+g/c/ c c | c/d/ c B | 
+c/d/ c B | G/F/  G G | 
+
+X:71
+T: "Dárom, madárom"
+K: F
+M: 2/4
+L: 1/4
+d g | g/e/ f | 
+d g | g/e/ f | 
+d>c | d/d/ d | 
+G c | c/A/B | 
+G c | c/A/B | 
+G>F | G/G/G | 
+
+X:72a
+T: A dínomnak, a dánomnak
+K: F
+M: 4/4
+L: 1/4
+g2 f2 | g2 a a | 
+g2f2 | g/g/f/_e/ d d | 
+c2 B2 | c2 d d | 
+c2 B2 | c/c/B/A/ G G | 
+
+X:72b
+T: Házasodik a tücsök
+K: F
+M: 2/4
+L: 1/4
+g2 | g/e/ f | 
+a/g/f/c/ | d d | 
+c2 | d/A/ B | 
+d/c/B/A/ | G G | 
+
+X:73
+T: Ha felmegyek a bugaci halomra...
+K: F
+M: 4/4
+L: 1/4
+Gg g/f/f/e/ | d/d/g2
+a/f/ f g/f/f/c/ | d<B B2 | 
+d>_e d/c/ d/B/A/G/ | c/c/ d2 
+g/d/d/c/ f B/A/ | B<G G2 | 
+
+X:74
+T: Annyi bánat a szívemen...
+K: F
+M: 2/4
+L: 1/8
+fggf | fggf | 
+gfdc | BccB | 
+BcdB | BcdB | 
+cGGF | BB G2G2 | 
+
+X:75
+T: Ezernyolcásznegyvenjatba...
+K: F
+M: 2/4
+L: 1/8
+fggg | ggfc | 
+ggfd | ddcB | 
+dff_e | dcBF | 
+cABG | FG G2 F2 
+
+X:76
+T: Gyimes táncdallam
+K: F
+M: 4/4
+L: 1/4
+ffgg | fffc | 
+gfgf | dccB | 
+dfcB | GGGF | 
+dfBF | G<G G2 | 
+
+X:77
+T: Seprik az erdei utat
+K: F
+M: 2/4
+L: 1/8
+fddc | fddc | 
+ddfd | dccB | 
+cBdc | cBGF | 
+cBdc | cBGG | 
+
+X:78
+T: Anyám, édesanyám...
+K: F
+M: 2/4
+L: 1/4
+f/ (e/4d//) f/2 (f g/) | f c | 
+f/d/d/d/ | c B | 
+B/c/d c | B F | 
+B/G/G/G/ |A G | 
+
+X:79
+T: Fehér fuszulyka virág
+M: 4/4
+L: 1/4
+K: F
+GGgg | afc2 | 
+ffgf | e<d d2 | 
+f_edc | dBF2 | 
+BBcB | A<GG2 | 
+
+
+X:80
+T: Tegnap a Gyimesbe jártam...
+M: 4/4
+L: 1/4
+K: F
+Ggag | f2 c2 | 
+f/g/a/b/ a<g | d2 d2 | 
+g g/d/ f c | B2 F2 | 
+B/c/d/_e/ f<c | G2 G2 | 
+
+X:81
+T: Széles vízen keskeny palló, bel'esem...
+M: 4/4
+L: 1/4
+K: F
+Ggba/g/ | g<f c2 | 
+aa/g/g/f/a/g/ | d<d d2 | 
+f f/d/ f/_e/d/c/ | d<B F2 |
+d d/c/ B c | G<G G2 | 
+
+X:82
+T: Bőg a bárány az erdőbe...
+M: 3/4
+L: 1/4
+K: F
+f/g/ g<c | f/g/ g<c | 
+f/g/ a<g | f/d/ c2 | 
+f f<d | c f<f | d<B B2 
+f f<d | d/c/ c>B |  G<F B2 
+f f<d | c c>B | G<G G2 
+
+X:83
+T: "Ultra Marin"
+M: 4/4
+L: 1/4
+K: F
+g/f/ d f g | a f c2 | 
+g/f/ d c/B/d/c/ | B<B B2 | 
+c/B/ G B c | d B F2 | 
+c/B/G B/d/c/B/ | A<G G2 | 
+
+X:84
+T: Ha tudtad te, kisangyalom, nem szeretsz...
+M: 4/4
+L: 1/4
+K: F
+g/f/e/c/ d/e/f/g/ | a f c2 | 
+d/e/f/g/ f/c/d | d c G2 | 
+c B c d | f/d/c | c B F2 | 
+B/c/d/B/ c/c/F/B/ | G<G G 2 
+
+X:85
+T: Három csillag van az égen egy sorba...
+M: 4/4
+L: 1/4
+K: F
+g/f/e/d/ f g | a f d2 | 
+d/e/ f B/c/c/c/ | c<B B2 | 
+ddgf | Bc | dB G2 | 
+G/A/B/B/ c/d/c/c/ | G<G G2 | 
+
+X:86
+T: Kihajtottam Virág ökröm a rétre...
+M: 4/4
+L: 1/4
+K: F
+Ggaa/g/ | g<f a2 | 
+a a/g/ g/f/f/_e/ | d c B2 | 
+fggd | f/_e/d/c/ | d<B F2 | 
+f/g/g/d/ f/_e/d/c/ | G<G G2 | 
+
+X:87
+T: Egy kicsi madárka...
+M: 2/4
+L: 1/4
+K: F
+G g | f c | 
+_e/_e/f/_e/ | d d | 
+g/f/d/c/ | B F | 
+Bd/c/ | G G | 
+
+X:88a
+T: Sikotai gulyajárás...
+M: 2/4
+L: 1/4
+K: F
+g2 | g/a/g/c/ | 
+a/g/f/g/ | f/d/d/G/ | 
+f/g/d/c/ | c/d/B/F/ | 
+B B/G/ | F/G/G/G/ | 
+
+X:88b
+T: Csütörtökön virradóra...
+M: 2/4
+L: 1/4 
+K: F
+g2 | g/a/g/!roll!f/ | 
+e/d/e/f/ | g/d/c/!roll!G/ |
+f/g/f/e/ | d/c/G/!roll!c/ | 
+d B/c/ d/!roll!G/A/G/
+
+X:89
+T: A citrusfa levelestől ágastól...
+M: 4/4
+L: 1/4
+K: Eb
+g2g2 | g e c2 | 
+f2 e g/e/ | d d d2 | 
+=B c d e | f/e/d/c/ | =B A F2 | 
+f/e/d/c/ =B/B/c/A/ | G<G G2 | 
+ 
+X:90
+T: A panyiti halastóba...
+M: 2/4
+L: 1/4
+K: Eb
+g/g/=e/c/ | g/g/=e/c/ | 
+f f/e/ | c/e/ d d2 | 
+fecf | BcAF |
+d/c/c/A/ | F/A/ G G2 |
+
+X:91
+T: Aki leány akar lenni
+M: 4/4
+L: 1/4
+K: F
+ggde | fedc | 
+fedc | dddd | 
+ggdc | BAGF | 
+BAGF | GGGG | 
+
+X:92
+T: "Nagyszalontai sirató"
+M: 4/4
+L: 1/4
+K: F
+g/f/f/f/ e d2 
+g/f/f/e/ d c2 
+f/e/d/d/c B2 
+d/d/c/B/A A2 
+
+X:93
+T: Esik eső, nől a petrezselyem...
+M: 2/4
+L: 1/4
+K: F
+g/g/g/f/ | g/f/e | d/dd/ | 
+g/g/g/f/ | e/e/d | c/cc/ | 
+f/f/f/e/ | d/d/c | B/BB/ | 
+d/d/d/c/ | B/B/A | G/GG/ | 
+
+X:94
+T: "Bukovinai dudanóta"
+M: 4/4
+L: 1/4
+K: F
+gagf | gfed | 
+gagf | ecdc | 
+fedB | cBAG | 
+cdcB | GGAG | 
+
+X:95
+T: Tizenkét kőműves
+M: 3/4
+L: 1/8
+K: F
+ggfe fg | aagf ed |
+defg fe | ccde dc | 
+dcBA Bc | dcBA GA | 
+dcBA Bc | GGcB GG | 
+
+X:96
+T: Kiszárad a tóból...
+L: 1/8
+K: F
+ggga gf | fe d2 dg d2 | 
+defg fe | gg c2 cd c2 | 
+fedg cB | BA G2 cc d2 | 
+cccd cB | dc G2 GA G2 | 
+
+X:97
+T: Olcsó már a pásztor
+L: 1/4
+K: F
+G/G/g/f/ e/d/ |
+d/e/ f | e/d/ c |
+g/c/c/B/ c/B/ 
+d/c/G | G/A/ G | 
+
+X:98
+T: Széles víz a Duna...
+M: 2/4
+L: 1/4
+K: F
+g/g/g/a/ | gf | 
+g/d/d/c/ | B G | 
+g/d/ c | c/=B/c | 
+d/d/d/e/ | fg | 
+c/c/f/f/ | _e d | 
+B/A/G | G/G/G | 
+
+X:99
+T: Hej, Zilahi szereti a táncot...
+M: 2/4
+L: 1/4
+K: F
+g/f/e/d/ | g/f/e | d g/d/ | 
+a/a/a/g/ | f/d/g | c d/c/ | 
+d/B/d/c/ | B/A/ G | f g/d/ | 
+d/B/d/c/ | B/c/d | G A/G/ | 
+
+X:100
+T:Látom a szép eget...
+M: 4/4
+L: 1/4
+K: F
+gdfe | d2 d2 | 
+gdfe | c2 c2 | 
+BBfd | B2 B2 | 
+cGBA | G2 G2| 
+
+X:101
+T: Ifjúságom csulamadár...
+M: 4/4
+L: 1/4
+K: F
+gffg | f/e/d d2 | 
+gffg | f/e/c c2 | 
+de^fg | c/d/ c B2 | 
+d_edc | B/A/G G2 | 
+
+X:102
+T: "Kádár Kata"
+L: 1/4
+K: F
+f/f/g/f/ d/e/ | d d |
+f/f/g/f/ d/e/ | c c | 
+B/c/d/d/ e/d/ | d c | 
+B/c/d/c/ B/A/ | G G | 
+
+X:103
+T: "Karácsonyi pásztortánc"
+M: 2/4
+L: 1/4
+K: F
+g/a/g/f/ | e c | f/e/d | c2 | 
+g/a/g/f/ | e c | f/e/d | c2 | 
+dd | B d | c/B/ A | d2 | 
+d d | B d | c/B/ A | G2 | 
+
+X:104
+T: Bánod, bíró, bánod...
+M: 2/4
+L: 1/4
+K: F
+gg | dg | dd | 
+gf | ed | cc | 
+dB | GB | AA | 
+dB | GB | GG | 
+
+X:105
+T: Ez az asszony de szép asszony...
+M: 4/4
+L: 1/4
+K: F
+ggfg | dddd | 
+ggfg | cccc | 
+ddcB | AAAG | 
+cdcB | GGGG | 
+
+X:106
+T: Annak a kislánybak
+M: 2/4
+L: 1/4
+K: F
+g/g/g | d/dd/ | 
+g/g/g | c/cc/ | 
+f/e/d | B/BB/|
+d/c/B | G/GG/ | 
+
+X:107
+T: El kell menni, ha esik is
+M: 2/4
+L: 1/4
+K: F
+gd | d/e/f/e/ | d d | 
+dd | c/d/e/d/ | c c | 
+Bd | e/d/c/B/ | A A | 
+Bd | G/A/B/A/ | G G | 
+
+X:108
+T: Édesanyám, de szépen felneveltél...
+M: 4/4
+L: 1/4
+K: F
+gfdd | ffgf | d<d d2 | 
+gfed | cced | c<c c2 | 
+BBdd | _edcB | d<c B2 | 
+cBAG | ddcB | A<G G2 | 
+
+X:109
+T: Valamennyi búzaszál van...
+M: 2/4
+L: 1/4
+K: F
+df | g/f/e/d/ | f/d/e | d2 | 
+df | |g/f/e/d/| e/c/d | c2 | 
+Bd | e/d/d/B/ | d/B/c | d2 | 
+Bd | e/d/d/B/ | d/B/c/B/ | A2 | 
+
+X:110
+T: Verjen meg az Isten rózsám...
+M: 4/4
+L: 1/4
+K: F
+gggg | gfed | fgfe | d<dd<d | 
+gggg | gfed | ccde | c<c c<c | 
+ccff | gfdd | cdcB | cB G<G | 
+cdcB | cdfd | dcBc | G<G G<G | 
+
+X:111
+T: Csillagtalan sötét éjjel
+M: 4/4
+L: 1/4
+K: Bb
+gfed | gfe g/e/ | d<d d2 | 
+gfed | edc f/d/ | c<B B2 | 
+Bcdf | edc/B/G | 
+edcB/F/ | G<G G2 | 
+
+X:112
+T: Régen volt, soká lesz
+M: 2/4
+L: 1/4
+K: F
+gf | d/e/f | d2 | 
+fe | d/c/d | c2 | 
+cB | G/A/B | A2 | 
+cB | G/A/B | G2 | 
+
+X:113
+T: Kincsem, komámasszony...
+M: 2/4
+L: 1/4
+K: F
+gf | d/e/f | dA | dd | 
+fe | ce | cG | cc | 
+dB | G/A/B | AA | A/d/ A | 
+dB | G/A/B | G G | G/A/G | 
+
+X:114
+T: "Cigányok vajdája"
+M: 2/4
+L: 1/8
+K: F
+defe | defe | dd2e | ddd2 | 
+cded | cded | cc2d | ccc2 | 
+d2dc | B2cB | GA2A | AAA2 | 
+d2dc | B2cB | GG2G | GGG2 | 
+
+X:115
+T: Jaj de szépen cseng a lapi..
+M: 4/4
+L: 1/4
+K: F
+defe | defe | dc_BG | dded | 
+cded | cded | dc_BG | ccdc |
+dded | BBcB | GGA_B | cccc | 
+dded | BBcB | GGAB | GGGG | 
+
+X:116
+T: Igyunk itt
+M: 2/4
+L: 1/4
+K: F
+g/g/f | g/f/e | 
+f/e/d | d/g/c | 
+d/c/B | c/B/A 
+B/A/G | G/A/G | 
+
+X:117
+T: Ahol én elmegyek...
+M: 2/4
+L: 1/4
+K: F
+g/a/g/f/ | g<d | 
+f/g/f/c/ | d<B | 
+c/d/c/B/ | c<F | 
+B/c/B/F/ | G<G | 
+
+X:118
+T: Engem anyám megátkozott...
+M: 2/4
+L: 1/8
+K: F
+gfdd | ffgd | 
+ffgd | fdcB | 
+fcBc | GGBF | 
+Bcdf | cB GG | 
+
+X:119
+T: Itt a szüret, egy-két hónap...
+M: 4/4
+L: 1/4
+K: Bb
+dgfg | dcfd | 
+cfed | e/d/cB2 | 
+cedc | _BcGF | 
+ccBG | F/F/GG2 | 
+
+X:120
+T: Túl a vizen egy diófa
+M: 2/4
+L: 1/8
+K: F
+ggdd | dcfd | 
+ggdd | cdcB | 
+BBdd | cBfc | 
+dcBc | BGFG | 
+
+X:121
+T: Beteg a szeretőm szegény...
+M: 2/4
+L: 1/4
+K: F
+gd/e/ | fd | fd | 
+gg | gc | dB | 
+c/B/G/G/ | Bc | dB | 
+B/c/d | d<A | G2 | G2 | 
+
+X:122
+T: Széne van az ólban...
+M: 2/4
+L: 1/4
+K: Bb
+gd | g/a/g | d2 | 
+gf | e/d/c | B2 | 
+BG | c/d/e | d2 | 
+ed | c/B/ A | G2 | 
+
+X:123
+T: Téli, nyári laboda...
+M: 2/4
+L: 1/4
+K: F
+gd | gd | 
+gd/d/ | d/c/B | 
+B/c/d | c B | 
+F B/_A/ | G G | 
+
+X:124
+T: A szegedi halastó...
+M: 2/4
+L: 1/4
+K: Bb
+gf | gf | g/dd/ | 
+gf/e/ | d/B/c | d/BB/ | 
+Bc | dc | d/BG/ | 
+BA/G/ | B/B/A | B/GG/ | 
+
+X:125
+T: Hat ökröm van mind sárga...
+M: 4/4
+L: 1/4
+K: Bb
+ggfe | dgd2 | 
+ggfe | dcB2 | 
+dfgf | dBG2 | 
+ddcB | AGG2 | 
+
+X:126
+T: Elindultam szép hazámból...
+M: 2/4
+L: 1/8
+K: F
+GGgg | gffg | 
+agfg | dccB | 
+ggfg | dBBc | 
+dBBc | dcGG | 
+
+X:127
+T: Hegyek, völgyek között állok...
+M: 4/4
+L: 1/8
+K: F
+GGGGGG gg | 
+gfgf dBcB |
+gfgf BAGc | 
+BGBc dcGG | 
+
+X:128
+T: Szántani kék, tavasz vagyon...
+M: 4/4
+L: 1/8
+K: F
+ggdg ggdg | 
+fdBG cdcB | 
+fdBG cdcB | 
+BccB GGAG | 
+
+X:129
+T: Szép a tavasz, de szebb a nyár...
+M: 4/4
+L: 1/8
+K: F
+gfed gg GG | 
+ccdd ffcB | 
+ccdd ff cB | 
+gfBc dB GG | 
+
+X:130
+T: Igyunk arra, aki búsul...
+M: 4/4
+L: 1/8
+K: Bb
+gdgg gdgg | 
+ccff gd cG | 
+FF ff gd cG | 
+edcB dc GG | 
+
+X:131
+T: Megesküdtünk az egekre...
+M: 4/4
+L: 1/8
+K: F
+ggde fefg | 
+fgdc dB cG | 
+fgdc dB cB | 
+Bcdc BFGG | 
+
+
+X:132
+T: Juhász andrás az én nevem...
+M: 4/4
+L: 1/8
+K: G
+gagf gagf | 
+efge ddBG | 
+efge ddBG | 
+GGAB BGGG | 
+
+X:133
+T: Ludaim, ludaim...
+M: 4/4
+L: 1/4
+K: F
+f/g/a/ g g/ f | 
+g/f/d/ c d/ B | 
+g/f/d/ c d/ B | 
+c/B/G/ G A/ G | 
+
+X:134
+T: Erdő nincsen zöld ág nélkül
+M: 4/4
+L: 1/8
+K: Bb
+gggf gggf | 
+fedd fdcB | 
+fedd ddcB | 
+FF Bc dc GG | 
+
+X:135
+T: Bámat, bánat, de megettél...
+L: 1/8
+K: F
+efgf efgf | 
+gffd Bc f2 B2 |
+gffd Bc f2 B2 |
+G2 cB ABcB  | 
+gefd Bc G G | 
+
+X:136
+T: Vágják az erdei utat
+L: 1/8
+K: F
+ddff ffgf | 
+gfdB dccB | 
+gfcB dc c (BG) |
+GGBc dc GG | 
+
+X:137
+T: Virágos kenderem...
+M: 2/4
+L: 1/4
+K: Bb
+Gg | g/fd/ | 
+f/e/d | c/B F/ | 
+B c | c/B c/ | 
+F B | G/GG/ | 
+
+X:138
+T: Béres vagyok béres...
+M: 2/4
+L: 1/4
+K: Bb
+g/g/g/g/ | g f | 
+g/g/f/e/ | d c | 
+g e/e/ | f/e/d/c/ | 
+d/c/=B/c/ | G G | 
+
+X:138j
+T: Hosszú asztal mellett...
+M: 4/4
+L: 1/4
+K: Bb
+ddee | d2c2 | 
+ddcB | A2 G2 | 
+B2 AG | DGAB | 
+cBdd | G2 G2 | 
+
+X:139
+T: Végigmentem Eperjesen...
+L: 1/8
+K: Eb
+g2 gf efge | 
+g2 gf edcG | 
+cfed cdcB | 
+g2 gf edcG |
+
+X:139j
+T: Azért vagyok magyar huszár...
+M: 4/4
+L: 1/4
+K: Bb
+gggf | efge | 
+gggf | edcG | 
+c2f2 | e/d/c/B/ c2 | 
+e/d/c/B/ c A | G G G2 | 
+
+X:140
+T: "Görög Ilona"
+M: 4/4
+L: 1/4
+K: Eb
+eefe | d2 e2 | 
+cedc | B2 B2 | 
+cedc | B2 c2 | 
+AcBA | G2 G2 | 
+
+X:141
+T: „Bíró Szép Anna"
+L: 1/8
+K: Eb
+ccdedc 
+fedB=AB 
+cedcBA 
+GFBAGG 
+
+X:142
+T: Ne búsuljon senki menyecskéje...
+M: 2/4
+L: 1/4
+K: Eb
+e2 | g f/e/ | d c | 
+f/e/c | e d/c/ | B F | 
+f/e/c | e d/c/ | B c | 
+F A | c B/A/ | G G | 
+
+X:143
+T: Lányok ülnek a toronyba...
+M: 4/4
+L: 1/4
+K: Eb
+e/d/ccc/d/ | e/d/e/d/dd | 
+e/d/ccc/d/ | ed/c/BB | 
+e/d/ccc/d/ | ed/c/B G | 
+F/_E/F/G/ A/G/A/B/ | cB/A/GG | 
+
+X:144
+T: „Fehér László"
+M: 4/4
+L: 1/8
+K: F
+dgfe dgfe | 
+fede cGcc | 
+fede cGcd | 
+cBGB AAAA | 
+
+X:145
+T: Jaj de szerencsétlen időrejutottam...
+L: 1/4
+K: F
+gdd/g/f f/e/f/g/
+f/e/d/c/ c d/B/A/G/A/A/
+f/e/d/c/ c d/c/ BB
+d/c/BB c/B/A/B/ G/G/
+
+X:146
+T: Elment az én rózsám...
+L: 1/4
+K: F
+g/g/f/e/^f/g/
+d/c/B c/B/ A | 
+c/c/B A/G/c | 
+d/c/B d/G/  G | 
+
+X:147
+T: Cifra buda szegre van akasztva...
+M: 2/4
+L: 1/4
+K: F
+f/e/f/g/ | a/g/f | e/de/ | 
+f/e/f/g/ | d/c/B | A/AG/ | 
+B/A/B/c/ | d/c/B | A/AG/ | 
+f/e/f/g/ | d/c/B | A/GG/ | 
+
+X:148
+T: Leszállott a páva vármegye kútjára...
+L: 1/8
+K: F
+ggagfe gf | ecdc 
+defedc dB | GBAA 
+gfeddc dd | cBAG 
+GGccBA dd | cBGG 
+
+X:149
+T: Menyecske, menyecske...
+L:1/8
+K: F
+gggfed
+egdcB2A2 | 
+egdc BG 
+dcBA G2G2 | 
+
+X:150
+T: Katona vagyok én, ország őrizője...
+L:1/8
+K: F
+fed^cdd fedcdd |
+edBBdd ed cB AA |
+ccccdd ed cBAG  |
+DEFGAB cB GGGG |
+
+X:151
+T: Amott jön egy kocsi...
+L: 1/8
+K: F
+fedefd
+fedcBA 
+cBAB d(cG)
+BcddGG 
+
+X:152
+T: Ha tudtad, hogy nem szerettél...
+M: 4/4
+L: 1/4
+K: F 
+fefe | fedc | 
+AAcc | dcBB | AAA2 | 
+AAcc | dc=Bc |
+FF_AA | cdc=B | GGG2 | 
+
+X:153
+T: "Szabó Erzsi"
+L: 1/8
+K: Bb
+dedcdc
+dedcBA
+cBccB(A F)
+BcB_A GG
+
+X:154
+T: Én istenem, add megérnem
+M: 4/4
+L: 1/4
+K: F
+ggfg | fdcd | 
+gfdc | cdBB | 
+fedc | dcBd | 
+ddcd | GGGG | 
+
+X:155
+T: Tőlem a nap...
+M: 2/4
+L: 1/8
+K: F
+ddff | gffc | 
+gffd | dfcB | 
+gffd | cccB | 
+cdBc | cBGG | 
+
+X:156
+T: Sirass édesanyám...
+L: 1/8
+K: F
+M: 3/4
+fggfff | fggffd | 
+fggffd | BcccdB | 
+fggffd | BccccB | 
+GGBBcF | BBccGG | 
+
+X:157
+T: Sirass, édesanyám
+L: 1/4
+K: F
+f/g/g/g/ g/f/ 
+g/f/f/d/ | c<B |
+B/c/c/c/ c/B/ | 
+c/B/G/F/ | G<G |
+
+X:158
+T: Búélesztő szellő...
+M: 2/4
+L: 1/4
+K: Bb
+g/g/g/f/ | e<d | 
+f/f/e/d/ | c<B | 
+f/f/e/d/ | c<B | 
+d/d/c/B/ | A<G | 
+
+
+X:159
+T: Anyám, édesanyám...
+M: 2/4
+L: 1/4
+K: Bb
+f/f/g/f/ | e<d | 
+f/e/d/c/ | c<B | 
+c/d/e/d/ | c<B | 
+d/c/B/_A/ | G<G |
+
+X:160
+T: Úgy elmenéék a bú elől...
+M: 2/4
+L: 1/8
+K: Bb
+gfed | gfed | 
+gfed | BccB | 
+Bccc | gdcB | 
+BccB | cBGG | 
+
+X:161
+T: Kukorít a kakas...
+M: 2/4
+L: 1/4
+K: C
+g/d/e/f/ | e<d | 
+g/B/d/d/ | cB | 
+g/e/ d | d/c/B | 
+d/c/B/A/ | G G | 
+
+X:162
+T: Piros, piros szekfű...
+M: 2/4
+L: 1/4
+K: Bb
+d/d/f/e/ | d d | 
+c/c/d/c/ | B B | 
+c/c/d/c/ | B c | 
+F/F/B/_A/ | G G | 
+
+X:163
+T: Piros alma csumája...
+M: 4/4
+L: 1/4
+K: F
+GGgg | gdc2 | 
+dgdB | dcG2 | 
+ddcB | dcG2 | 
+FFBc | GGG2 | 
+
+X:164
+T: Hull a szilva a fáról...
+M: 2/4
+L: 1/8
+K: Bb
+GGgg | fg2g | 
+ccfe | dd2G | 
+ccfe | dcBB | 
+ccBA | G2 G2 | 
+
+X:165
+T: Királyfalvi nagy hegy alatt...
+M: 5/8
+L: 1/4
+K: F
+f/f/ g/d | d/c/ c/ d | 
+g/f/ d/c | c/B/ G/F | 
+B/B/ c/d | c/B/ G/F | 
+B/B/ c/d | G/G/ G/G | 
+
+X:166
+T: Jaj, Istenem, adj egy jót...
+M: 2/4
+L:1/8
+K: F
+gffg | fd d2 | gffg | fd d2 | 
+gffg | fd g2 | d2 cB | AG G2 | 
+GA A2 | A2 d2 | d2 cB | AG G2 |
+gfed | cBcB | A2<G2 | G4 | 
+
+X:167
+T: Ki van borért
+M: 4/4
+L: 1/4
+K: F
+gfgf | gfed | 
+fgcd | cBAG | 
+cdcB | cBAG | 
+cdcB | GGGG | 
+
+X:168
+T: Ej, haj, Subri pajtás...
+M: 4/4
+L: 1/4
+K: F
+d2g2 | gfed | 
+gfgd | cBAG | 
+B2 d2 | cBAG | 
+BBdd | GGAG | 
+
+X:169
+T: Felülről fúl az őszi szél...
+M: 4/4
+L: 1/4
+K: F
+g>f e<f | e2f2 | d2d2 | 
+f>e d<B | A2B2 | G2G2 | 
+f>e d<B | A2B2 | G2d2 | 
+edcB | A2B2 | G2G2 | 
+
+X:170
+T: Felment a kondás a fára...
+M: 4/4
+L: 1/4
+K: F
+gfec | dddc | 
+dfgd | cBAG | 
+ddcB | cBAG | 
+ddcB | GGGG | 
+
+X:171
+T: Igyunk egyet...
+M: 4/4
+L: 1/4
+K: C
+gfec | gfec | 
+dgdg | dcBG | 
+BBBB | dccB | 
+dcBA | GGAG | 
+
+X:172
+T: Minden ember szerencsés
+M: 2/4
+L: 1/8
+K: F
+ggde | fedc | 
+fedc | Bc GG | 
+fedc | Bc GG | 
+BcBd | dG AG | 
+
+X:173
+T: Eddig vendég...
+M: 2/4
+L: 1/4
+K: F
+d/e/f/d/ | fe | dc | 
+g/f/e/d/ | c B | GG | 
+d/d/d/d/ | c B | A A | 
+d/d/d/d/ | cB | G G | 
+
+X:174
+T: Általmenék a temetőn...
+M: 2/4
+L: 1/4
+K: C
+d/d/d/d/ | de | dc | 
+d/d/d/d/ | cB | GG | 
+B/B/d/d/ | cB | AG | 
+B/B/d/d/ | cB | GG | 
+
+X:175
+T: Jegenyefa tetejében...
+M: 2/4
+L: 1/8
+K: C
+defd | fedc | 
+Bcdd | cB GG | 
+dcBc | dccB | 
+BBcd | cB GG | 
+
+X:176
+T: Az ökör a földet...
+M: 4/4
+L: 1/4
+K: F
+f<f e2 | d2 dc | 
+gfg2 | c2BG | 
+dcB2 | A2 AF | 
+GAB2 | G2 GG | 

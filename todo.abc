@@ -1,0 +1,71 @@
+%abc
+
+X:1
+T: Nincsen pénzem van erszényem...
+L: 1/4
+K: F
+S: gyergyó
+g/g/g/f/ d/f/f/d/ | c/c/c/G/ d2  | 
+w: Nin-csen pén-zem van er-szé-nyem jó bort i-hat-nák
+g/g/g/f/ d/f/f/d/ | c/c/c/B/ G2  | 
+w: Nin-csen lo-vam van kan-tá-rom lo-va-gol-hat-nák
+B/c/c/B/ d/d/d/B/ | B/c/c/B/ d2 | 
+w: Vagy-on e-kém nin-csen föl-dem jól be-szánt-hat-nám
+B/c/c/B/ d/d/d/B/ | B /c/c/B/ G2 | 
+w: Vagy-on e-rőm, nincs sze-re-tőm, há-za-sod-hat-nám
+ B/cB/ d2 | B/cB/ d2 | 
+w:  A-jajj-jaj jaj A-jajj-jaj jaj
+B/cB/ G2 | 
+w: A-jajj-jaj jaj
+W: Ha nálunk jő guzsalyasba csendesen járjon
+W: A mi titkos záros ajtónk meg ne roppanjon
+W: Édesanyám olyan betyár ebren aluvó
+W: Amit mi most beszélünk meghallgattató
+W:
+W: Titkos beszéd nem esik meg szerelem nélkül
+W: A szerelem nem esik meg páros csók nélkül
+W: Adsza kezed jobb kezembe, fordojunk egyet
+W: Menjünk ki a gyümölcsösbe ott szedjünk meggyet
+
+X: 2
+T: Szilágysági dallam
+M: 2/4
+L: 1/16
+Q:1/4=129
+K:F
+V:1
+f2d2d2d2| d2d2B2B2 | d4<d4 |f8|
+f2 d2 d2 d2| d2 d2 B2 B2| c4<c4| _e8|
+d6 c2| B2 A2 G2 _G2| G4 c4| B8|
+d2 d2 g2 f2| d2 B2 c2 B2| A4<G4| G8|
+
+X: 3
+T: Addig megyek, míg a szememel látok
+S: Szilágysági magyar népzene 151.
+O: Varsolc, Kis Zsuzsanna (14), 1970.12.11
+M: 2/4
+L: 1/4
+Q: 1/4=114
+K: Bb
+BA G<d| d/c/G/B/ | A<G G z| 
+w:Ad-dig me-gyek, még a sze-mem-mel lá-tok,
+d/d/B/B/ c/d/e/c/| f<d dz| 
+w: Még egy sű-rű er-dő-re rá-ta-lá-lok
+d/d/B/B/ c/d/e/c/| f<d G>z| 
+w: sű-rü er-dő kö-ze-pé-be ka-szár-nya
+{A}BA G<{/B}d| d/c/G/B/ | A<G G z |
+w: O-da le-szek há-rom é-vig be-zár-va.
+W: Addig megyek, még a szememmel látok
+W: Még egy gyászos temetőre találok,
+W: Gyásztemető, én leszek a halottja,
+W: Barna kislány, te vagy annak az oka.
+W: 
+W: Fehér gyolcsból csináltatok zsebkendőt,
+W: Itt Varsolcon nem találok szeretőt,
+W: Elmegyek én más faluba keresni,
+W: Másfalusi fog igazán szeretni.
+W: 
+W: Addig megyek még a szememmel látok,
+W: Még egy vadrucafészekre találok,
+W: Vadrucafészek sosincs tojás nélkül,
+W: Az én szívem soha nincs bánat nélkül.
