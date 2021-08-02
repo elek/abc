@@ -373,7 +373,7 @@ X:38
 T: Rimaszombat felől
 K: F
 M: 3/4
-K: 1/8
+L: 1/8
 dgfefg | 
 agfd | c2<d2
 fgag | d2 c2 
@@ -1085,7 +1085,7 @@ ddcB | AAAG |
 cdcB | GGGG | 
 
 X:106
-T: Annak a kislánybak
+T: Annak a kislánynak
 M: 2/4
 L: 1/4
 K: F
@@ -1110,7 +1110,7 @@ M: 4/4
 L: 1/4
 K: F
 gfdd | ffgf | d<d d2 | 
-gfed | cced | c<c c2 | 
+gfed | c ced | c<c c2 | 
 BBdd | _edcB | d<c B2 | 
 cBAG | ddcB | A<G G2 | 
 

@@ -1,4 +1,5 @@
 %abc
+I:abc-charset utf-8
 
 X:1
 T: Nincsen pénzem van erszényem...
@@ -69,3 +70,21 @@ W: Addig megyek még a szememmel látok,
 W: Még egy vadrucafészekre találok,
 W: Vadrucafészek sosincs tojás nélkül,
 W: Az én szívem soha nincs bánat nélkül.
+
+X:4
+T:Addig megyek...
+L:1/4
+M:4/4 
+Q: 1/4=150
+O: Üsztürü, Napom napom, MNT 108
+K:F
+gfed | defe | d<d d z | 
+w: Ad-dig me-gyek míg a vil-ág vi-lág lesz
+gfed | dce>d | c<c c z | 
+w: Míg az é-gen két ra-gyo-gó csil-lag lesz
+BBdd | _edc B | cc B z |
+w: Csil-la-gos ég mer-re van az én ha-zám
+w: de-hogy si-rat rég el-va-gyok fe-led-ve
+dddG | ABc>B | A<GG z |
+w: Mer-re si-rat en-gem az é-des anyám
+w: Meg se hal-tam már el va-gyok te-met-ve

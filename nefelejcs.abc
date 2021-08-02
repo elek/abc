@@ -26,8 +26,217 @@ T: Fehér László
 L:1/4
 M:3/4
 Q: "Parlando" 1/4=60
+O: Bekölce (Heves), Vitéz József (69), 1953.08
 K:C
 A/B/A/G/c/c/ | (B{/A}) A>z | 
 HA/d/c/B/A/d/ | G<G z | 
 HA/F/E/D/G/A/ | (G{/F}) F>z | 
 C/C/D/E/F/(G/{/D}) | D<D z | 
+
+X:4
+T: Vidróczki
+O: Bekölce (Heves), Vitéz József (69), 1953.08
+M: 3/4
+Q: "Parlandon" 1/4=80
+L: 1/4
+K: C
+A/A/A/B/c/c/ | BA> z | 
+HA/d/c/B/A/d/ | G<G z | 
+A/A/G/F/G/A/ | G<F z | 
+F/G/A/G/A/G/ | HD HD z | 
+
+X:5
+T: Vidróczki
+O: Bekölce (Heves), Vitéz József (69), 1953.08
+M: 3/4
+Q: "Parlandon" 1/4=60
+L: 1/4
+K:C
+A/A/A/B/c/c/ | B A>z | 
+A/d/c/B/A/B/ | G G>z | 
+G/E/G/A/A/E/ | D C> z | 
+A/A/E/C/D/E/ | A, A,>z | 
+
+X:6
+T: Ködellik a Mátra
+O: Bekölce (Heves), Gál Forgony István (25), 1953.08
+L: 1/4
+Q: "Parlando" 1/4=80
+K: C
+d/d/d/e/d/c/ | c/d/A/G/A/HF/ |
+A/B/c/(c/{/d}) | (d{/A}) HA>z |
+Q: 1/4=72
+A/G/A/F/ | D<C z |
+F/F/E/(C/{D/}) | D<(D HD) |
+
+X:7
+T: Már ezután Szent Mihály-nap
+O: Nagyhortobágy (Hajdu), Rimóczi Mihály (73), 1939.08
+Q: "Rubato" 1/4=80
+M:2/4
+L:1/4
+K:F
+A/A/A/G/ | A/A/A/G/ | c/=B/ c | d>z | 
+A/A/A/G/ | A/A/A/G/ | c/=B/ c | d>z | 
+{/d}e/d/c/B/ | A/G/ (A {/c}) | 
+d/D/E/G/ | F/E/F | 
+A/>c/B/A/ | G/A/G | D>z | 
+
+X:8
+T: Rózsa Sándor bujdosik
+O: Kistelek (Csongrád), Sinka István (43), 1952.05
+M: 4/4
+L: 1/4
+Q: "Parlandó" 1/4=70
+K: F
+A/A/d/d/ d/c/_B/B/ | A _B (c2{/e}) | 
+He/c/c/c/ d/A/A/HG/ | A<F F z | 
+HA/B/A/G/ A/F/F/D/ | GG(A2{/d}) | 
+Hd/A/A/G/ A/F/F/HE/ | F<D D z | 
+
+X:9
+T: Tiszaparti kis gunyhóban
+O: Oroszlány (Komárom), Jankó Miklós (44), 1952.10
+Q: "Tempo guisto" 1/4=96
+M: 4/4
+L: 1/4
+K: Eb
+G/G/F/G/ A/F/G/E/ | D<C C z | 
+c/c/B/B/ e/e/d/c/ | c<G G z | 
+c/c/B/B/ e/e/d/c/ | d/c/G/c/ B z | 
+G/G/F/G/ A/F/G/E/ | D<C C z | 
+
+X:10
+T: Sej, haj, lemegyek az Alföldre
+O: Oroszlány (Komárom), Balogh András (31), 1952.10
+Q: "Tempo guisto" 1/4=96
+M: 4/4
+L: 1/4
+K: Bb
+B2 F2 | B/B/A/G/ | FDE<C | B,2 B, z |
+d<B F<d | cGAB | F2 Fz | 
+d<B F<d | cGA<B | c2 Bz | 
+B2 F2 | B/B/A/G/ | FDEC | B,2 B, z |
+
+X:11
+T: Lóra, csikós, lóra
+O: Bugas-Alsómonostor (Bács-Kiskun), Szénási Mihály (39), 1952.12
+M: 2/4
+L: 1/4
+Q: "Rubato" 1/4=60
+K: F
+Hd/c/=B/c/ | d c | 
+d/A/G/^F/ | A G | 
+G/A/B/G/ | Hd HA | 
+Hd/c/B/A/ | G<D | 
+G/A/B/G/ | Hc HG | 
+
+X:12
+T: Csongorádi gulyáslegény
+O: Bugas-Alsómonostor (Bács-Kiskun), Szénási Mihály (39), 1952.12
+M: 2/4
+L: 1/4
+Q: "Tempo guisto" 1/4=84
+K: Eb
+C/C/ F>F | G/F/E/F/ | E/D/ C | z |
+G/G/ c>c | d/c/B/c/ | B/A/ G | z |
+G/G/ c>d | e/c/G/c/ |
+B/G/ E<F | G/F/C/F/ | E/D/C | z |
+B/G/ E<F | G/F/C/F/ | E/D/C | z |
+
+X:13
+T: Leégett a Csiribiri csárda
+O: Bugas-Alsómonostor (Bács-Kiskun), Fehér Józsefné - Kerekes Julianna (57), 1952.12
+M:2/4
+L:1/4
+Q: "Tempo guisto" 1/4=100
+N: A nép ajkára került műdal a századforduló éveiből
+K: C
+C/C/ F D | F D | E/F/ G | C z |
+G/G/ cA | c A | B/c/d | G z |
+G/G/ cA | c A | c/G/A/G/ | 
+G/G/A/B/ | c G | F/E/ D | C z | 
+
+X:14
+T: Betyár gyerek az erdőbe
+O: Bugas-Alsómonostor (Bács-Kiskun), Fehér Józsefné - Kerekes Julianna (57), 1952.12
+M:2/4
+L:1/8
+Q:"Parlando" 1/4=70
+K:G
+AAAA | BAFHG | 
+AAdd | cBAHA | 
+dAdc | BAFHG | 
+A(F{/G})AG | FDHEHD | 
+
+X:15
+T: Jáger Jóska
+O: Felsőtárkány (Heves), Özv. Farkas Benedekné - Bugyi Mária (76), 1953.02
+M:3/4
+L:1/4
+Q:"Parlando" 1/4=90
+K: F
+F/E/F/G/A/F/ | D<C z | 
+A/F/A/B/c/c/ | dcz | 
+d/B/c/Hd/ z | c/A/F/HC/ z | 
+G/F/B/A/ G/F/ | G F> z | 
+
+X:16
+T: Esik az eső
+O: Tornyospálca (Szabolcs-Szatmár), Bódi Károly "Kama" (57), 1953.05
+M:4/4
+L:1/4
+Q: "Tempo guisto" 1/4=110
+K: G
+AD E/F/ G | B/B/A/G/ | F<D D z|
+AA d<d | d/A/B/c/ | B<A A z | 
+A<A d d | d/A/d/c/ | B/A/G/B/ A z | 
+AD E/F/G | B/B/A/G/ | F<D D z | 
+
+X:17
+T: Nem cserélek
+O: Tornyospálca (Szabolcs-Szatmár), Bódi Károly "Kama" (57), 1953.05
+M:4/4
+L:1/4
+Q: "Tempo guisto" 1/4=84
+K: G
+d>A BA | A>D FE | G/F/D/E/ | F<D Dz | 
+d>A B<A | A>D F<E | G/F/D/F/ | F<D D z | 
+GF E<F | dAB<A | AG B<A | E<E E z | 
+d>A BA | A>D FE | G/F/D/E/ | F<D Dz | 
+
+X:18
+T: Mihálynap felé az idő
+O: Györgytartó (Zemplén), Szilágyi György (70), 1954.03
+L:1/4
+M:3/4
+Q: "Parlando" 1/4=60
+K: C
+A/G/A/G/A/G/ | A<Hd |
+He/d/c/B/c/d/ | A HA |
+D/C/D/C/D/C/ | (D{/G}) HG |
+A/G/F/E/F/G/ | D HD |
+
+X:19
+T: Fülemüle, kis madárka
+O: Gyöngyöspata (Heves), Racskó Gergely (64), 1952.04
+Q: "Tempo guisto" 1/4=90
+M:4/4
+L:1/4
+K:D
+D/C/D/E/ FE | D2 A z | 
+G/F/G/A/ B A | E2 Ez | 
+A<A dB | A/B/A/G/ F D | 
+D/A,/D/E/ F<E | D2 Dz |
+
+X:20 
+T: Gyertej, jó fiaim
+O: Gyöngyöspata (Heves), Racskó Gergely (64), 1952.04
+Q: "Tempo guisto" 1/4=110
+M:4/4
+L:1/4
+K:G
+c/B/A/B/ A<G | c/B/A/G/ | F<D Dz | 
+d<d B<d | G>B d<c | B<A Az | 
+d d/d/Bd | c/B/A/G | A/G/A/G/ D z | 
+c/B/A/B/ A<G | c/B/A/G/ | F<D Dz | 
