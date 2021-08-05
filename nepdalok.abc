@@ -1,0 +1,299 @@
+I:abc-charset utf-8
+
+X:1
+T: Regös ének
+M: 4/4
+L: 1/4
+K: C
+GAGA | GFEC | DCEF | G2 G/ z/ z | 
+
+X:2
+T: Szomorú füzfának...
+L: 1/4
+O: Istensegíts (Bukovina), 1914. Varda Balbina (50)
+Q: 1/4=63
+R: Poco rubato
+K: Bb
+d c/f/d/ c/F/ 
+G/A/BA | F/F z/ | 
+B/c/d/e/ | (d/{/c})c z/ | 
+d/A/B/_A/ | G<G | 
+
+X:3
+T: Házasító dal
+O: Lengyelfalva (Udvarhely), Orbán Ákosné, 1903.
+M:2/4
+L:1/4
+Q: "Tempo guisto"
+K:Bb
+({G//A//}B/)c/d/(e/{c}) | (d{c//B//})(c{B//c//}) | d/d/c/<c/ | B z | 
+M:5/8
+G/G/(G/{F}) G//F/z// | G/G/(G/{/F}) G//F/ z//| 
+M:2/4
+B/<c/ (3:2:2 d/e | d c | B/B/G/F/ | B/G/F/ z/ | 
+(3:2:2 Gc/ G/c/ | G/ z/ z |
+
+X:4
+T: Repülj madár...
+S: Csíkménság (Csík), 1911
+M: 2/4
+L: 1/4
+Q: "Rubato"
+K: F
+B/c/d/d/ | {d/}c HB | 
+B/c/d/(d/{d/}) | (G{A/}) HF |
+d/c/d/{c/}d/ | {g/}f B | 
+d/c/c/B/ | G HG | 
+
+X:5
+T: Tücsök-lakodalom
+O: Fogadjisten (Bukovina), Gáspár Ferencné (38) ,1914
+Q: "Tempo guisto" 1/4=120
+M: 2/4
+L: 1/4
+K: F
+F/F/B/B/ | A/c/B | 
+A/A/G/A/ | BF/z/ | 
+F/F/B/B/ | A/c/ B | 
+_A/A/G/F/ | G G/z/ | 
+
+X:6
+T: Világ, világ, de meguntam magamat
+O: Diósad (Szilágy), Vég Gergely (68), 1914
+M: 4/4
+L: 1/4
+Q: "Rubato"
+K: F
+g/f/f/c/ c/e/f/f/ | f>g c2 | 
+c/d/e/f/ f/c/d/d/ | c G F2 z |
+B/c/d/d/ f/d/d/c/ | dBF z |
+B/c/d/d/ f/d/{/d}c/}B/ | G<G G z | 
+
+X:7
+T:Istenem, Istenem
+O: Kisgörény (Maros-Torda), Szalay Károly (50), 1914
+M:2/4
+L:1/4
+Q:"Andante" 1/4=68
+K:F
+f/>g/ a/<g/ | (f{_e/d/}) c | 
+d/d/f/c/ | B F/ z/ | 
+(G{F}) c | d//c//B//c// d/d/ | 
+c/>B/G/F/ |  GG/z/ | 
+
+X:8
+T: Házasító dal
+O: Fitosváralja (Udvarhely), ?, 1900
+M:2/4
+L:1/4
+Q: "Tempo guisto"
+K:Eb
+d/c/ d | d/c/d | 
+f/g/f/e/ | d F 
+B/c/d | c/A/G | 
+B/B/A/A/ | GG/z/ | 
+
+X:9
+T: Virágos kenderem...
+O: Csíkszentmihály, ?, 1907
+M:2/4
+L:1/4
+Q:"Allegretto"
+K:Eb
+G/G/g | f/fd/ | 
+f/e/d | c/BF/ | 
+G/G/B | c/BG/ | 
+F/F/c | G/GG/ | 
+
+X:10
+T:Molnár Anna
+O:Szárhegy (Csík), Nagy Katalin (50), 1910
+L:1/4
+Q:"Rubato" 1/4=80-104
+K:F
+f/f/f/c/ d/c/ B<G G z/ |
+f/f/f/c/ d/c/ B<G G z/ |
+{G/A/}B/A/G/A/ B/A/ G<F F z/ |
+d>c B/c/ (B//c//)d/ G<G z |
+
+X:11
+T:Kitrákotty mese
+O: Felsőbodogfalva (Udvarhely), Fülöp Istvánné, 1903
+M:2/4
+L:1/4
+Q: "Tempo guisto"
+K:G
+G/A/B/G/ | A/A/A/G/ | B D | G2 | 
+G/A/B/G/ | A/A/A/G/ | B D | G/ z/ z | 
+G/A/B/G/ | A/F/ (G/D/) | 
+d/<d/e/B/ | c/A/B/G/ | A/A/G/F/ | A D | G/z/z | 
+
+X:12
+T: Asszonyok, asszonyok
+O: Gyergyószentmiklós (Csík), ?, 1910
+Q: "Poco parlando" 1/4=72
+M:2/4
+L:1/4
+K:Eb
+d>c | (3:2:2 f/e (3:2:2 d/c | c/B/B/F/ | G<HG |
+d>c | f/e/d/c/ | c/B/B/F/ | G<HG | 
+B/B/B/F/ | G G | B/B/B/F/ | G G | B/B/B/F/ | G G/ z/ | 
+B/B/B/F/ | G/G/G/F/ | G/B/A/F/ | G G/z/ | 
+B/B/B/F/ | G/G/G/F/ | G/B/A/F/ | G G/z/ | 
+
+X:13
+T: Elmentek a cigányok
+O: Magyargyerőmonostor (Kolozs), ?, 1910
+M:2/4
+L:1/4
+Q: "Allegretto" 1/4=116
+K:F
+d/d/d/d/ | g/c/c | d/B/B/c/ | (B/{A/})G/ G | 
+d/d/d/d/ | g/c/c | d/B/B/c/ | (B/{A/})G/ G | 
+{G//A//}B2 | c/{B/}A/ B | c/{B/}A/B/c/ | (B/{A/})G/ G | 
+{G//A//}B2 | c/{B/}A/ B | c/{B/}A/B/c/ | (B/{A/})G/ G | 
+
+X:14
+T: A rossz feleség
+O: Kászonújfalu (Csík), Róka Ádámné (60), 1912
+Q: "Poco parlando" 1/4=100
+L:1/4
+K:F
+{/d}f/f/e/d/ | (c/A/) G G | Hz |
+{/d}f/f/e/d/ | (c/A/) G G | Hz|
+Q:"tempo guisto"
+M:2/4
+F/ | B B/>c/ | d/A/ B | F/B/B/c/ | d/A/B | c/c/B/G/ | d d z/ z// |
+F// | B/B/B/c/ | (d/A/) B | c/c/B/A/ | G G/ z/ | 
+
+X:15
+T:A tréfás juhász
+O: Istensegíts (Bukovina), Lőrincz Márta (29), 1914.
+Q: Tempo guisto, 1/4=116
+M:2/4
+L:1/4
+K:C
+G/A/B/c/ | B/A/B | 
+G/A/B/c/ | B/A/G | 
+d/<d/ B/B/ | A G/ z/ | 
+d/<d/ B/B/ | A G/ z/ | 
+
+X:16
+T: Keresztúri saláta
+O: Oroszhegy (Udvarhely), ?, 1902
+Q: "Tempo guisto"
+L:1/4
+M:2/4
+K: F
+f/d/d/d/ | g/d/(d/c/) | 
+d/B/B/B/ | A/d/ (c//B//A//G//) | 
+{A/}B/A/G/G/ | G/A/ {G/}F | 
+F/G/A/A/ | A/d/ (c//B//A//G//) | B G/G/ | G/A/ G/ z/ | 
+
+X:17
+T: Megizentem a szeretém anyjának
+O:Bözöd (Udvarhely), Józsa Zsuzsa / Koncz Mózesné, 1903
+M:5/8
+L:1/4
+Q: "Lento, parlando"
+K:Bb
+g/f/ f/ c | a/a/ a/ g | a/ (f/ f3/) | c3/ z | 
+a/a/ a/g | a/g/ fe/ |  d/(c/ c3/) | G3/ z | 
+(f3/ f/)e/ | g/((d/ d3/){c}) | f/e/ d/c | d/(B/ B3/) | F3/ z | 
+f/g/ (g/{a/})g |  f/e/ d/c | G/(G/G3/) | G/ z z | 
+
+X:18
+T: Sárga dinnye, görög dinnye, inastól...
+O: Korond (Udvarhely), iskolás gyerekek, 1900
+Q: "Tempo guisto"
+M:4/4
+L:1/4
+K:C
+g/f/e/c/ a/a/a/g/ | a<f c z | 
+a/a/a/g/ g/e/f/d/ | c<c G z | 
+f>e gd | c/c/A/B/ | A<c G z | 
+f/g/a/g/ f/e/d/c/ | A<G G z | 
+
+X:19
+T: El kéne indulni, meg ké' házasodni
+O: Gyergyószentmiklós (Csík), ?, 1910
+Q: "Allegretto"
+M:2/4
+L:1/4
+K:F
+d/g/g/d/ | d c | 
+d/d/d/c/ | B G | 
+d/g/g/d/ | d c | 
+d/d/d/c/ | B G | 
+d/d/ d | B/B/B | 
+G/c/B/A/ | G G | 
+
+X:20
+T: Esszegyültek, esszegyültek...
+O: Kászonújfalu (Csík), Róka Ádámné (60), 1912
+Q: "Tempo guisto" 1/4=92
+M:2/4
+L:1/4
+K: Eb
+c/e/d/c/ | c/e/d/c/ | 
+f/e/d/c/ | d G | d (G/F/) | 
+B c | F B | 
+A/c/B/A/ | G G/ z/ | 
+
+X:21
+T: Aj Istenem, hogy búsulok,
+O: Kisgörény (Maros-Torda), Bárdosi Borbála (70), 1914
+Q: "Andante" 1/4=82
+M:6/8
+L:1/4
+K:F
+ff/ e/e | (d/{e/})d (d/{c/}) c | 
+g (f//e//) d {d/}c/ | (d{c}) (B/{A/}) G/ G | 
+g (f//e//) d/d | d d/ d/ B | 
+c/ d d (B/{A/}) | G/G G/G/ z/ | 
+
+X:22
+T: Uccu vendég kóé múlattál...
+O: Gyergyóremete (Csík), ?, 1910
+Q: "Tempo guisto" 1/4=96
+M:2/4
+L:1/4
+K:F
+d/f/e/(d/{e/}) | f e | d (c{g}) | 
+g/<f/e/<d/ | c (B{A}) | G G/z/ | 
+(3:2:2 B/B (3:2:2 d/(d{B})) | c(B {A<G}) | A (d{g}) | 
+g/<f/e/d/ | c (B{A}) | A G/ z/ | 
+
+X:23
+T: Barna Péter
+O: Gyergyószentmiklós (Csík), Csibi Imréné (60), 1910
+Q: "Parlando" 1/4=88
+L:1/4
+K:F
+f/g/a/g/f/e/ d/c/c/c/d/<c/ |
+d/e/f/g/g/f/ e/d/c/ (B{AG}) A// G3/2 z2 |
+(c/_e/)e/d/c/B/A/ B/A/G/ c c/((d/ d2) c) z/ |
+(B/c/)B/c/d/c/b/ {/B}d/c/G/ (B{/G})>A G3/2 z | 
+
+X:24
+T: Elmenyek, elmenyek...
+O: Kászonimpér (Csík), ?, 1912
+Q: "Parlando"
+L:1/4
+K:Bb
+B/c/d/d/d/(Hd/{/c}) |
+f/e/d/c/ | G<HG | 
+c/G/A/B/c/F/ | 
+G/A/ (B>{/G})F | F<HG |
+
+X:25
+T: Jók a leányok, nem rosszak...
+O: Gyergyócsomafalva (Csík), ?, 1907
+Q: "Moderato"
+M:2/4
+L:1/4
+K:G
+g/f/g/d/ | e/f/g | d z | 
+e/e/d/c/ | B/A/B | G z | 
+B/B/A/G/ | A/B/c | A z | 
+e/e/d/c/ | B/A/B | G z | 

@@ -1,0 +1,39 @@
+I:abc-charset utf-8
+B: Rezeda, 99 Csángómagyar népdal, Zeneműkiadó, 1953
+N: Grace notes are excluded
+
+X:1
+T: Téli-nyári laboda
+O: Trunk (Bákó), ?, 1932
+Q: 1/4=120
+L:1/4
+K:G
+B/A/B/A/ B/A3/4 d3/4 | 
+B/G/F/F/ E/E3/4 D3/4 | 
+A/A/A/A/ | B/ A3/4 d3/4 |
+B/G/G/F/ | E/E3/4 D3/4 
+G/G/F/F/ | E/E3/4 F3/4 |
+G/G/F/F/ | E/E3/4 D3/4 |
+
+X:2
+T: Anyám!, Édesanyám!
+O: Lészped (Bákó), ?, 1932
+Q: Parlando 1/4=142
+L:1/4
+K:F
+(5:4:4 F/G/ G/ G | c/ d |
+c B/G/ | G G<F z z// F// |
+B/c/ (d//c//B //) | B/d/ c3/2 |
+c/B/ G/F/ | G/ G G z/ 
+
+X:3
+T: Azért szerettem
+O: Bogdánfalva (Bákó), ?, 1929
+Q: Guisto 1/4=138
+M:2/4
+L:1/4
+K:F
+F/E/D | F/(GA//F//) | 
+F/G/ A | G/FF/ | 
+A/A/d | c/B/A | 
+G/G/F | D/DD/ | 

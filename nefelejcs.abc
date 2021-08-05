@@ -1,3 +1,5 @@
+I:abc-charset utf-8
+
 X:1
 T: Csaló Pista
 M: 1/4
@@ -230,7 +232,7 @@ A<A dB | A/B/A/G/ F D |
 D/A,/D/E/ F<E | D2 Dz |
 
 X:20 
-T: Gyertej, jó fiaim
+T: Gyertek, jó fiaim
 O: Gyöngyöspata (Heves), Racskó Gergely (64), 1952.04
 Q: "Tempo guisto" 1/4=110
 M:4/4
@@ -238,5 +240,246 @@ L:1/4
 K:G
 c/B/A/B/ A<G | c/B/A/G/ | F<D Dz | 
 d<d B<d | G>B d<c | B<A Az | 
-d d/d/Bd | c/B/A/G | A/G/A/G/ D z | 
+d d/d/Bd | c/B/A/G/ | A/G/A/G/ D z | 
 c/B/A/B/ A<G | c/B/A/G/ | F<D Dz | 
+
+X:21
+T: Barna kislány nyoszolyája
+O: Kistelek (Csongrád), Özv. Mucsi Istvánné - Virág Julianna (83), 1952.05
+Q: "Tempo guisto" 1/4=100
+M:4/4
+L:1/4
+K:F
+AdAG | A<F DA, | F<G A<E | D2 D z | 
+A<d A<G | A<F DA, | F>G A<E | D2 D z | 
+dedA | d<e d A | G>A Bd | A2 A z | 
+A>d A G | A F D A, | F>G A<E | D2 D z | 
+
+X:22
+T: Jegenyefa kihajlott
+O: Kistelek (Csongrád), Özv. Mucsi Istvánné - Virág Julianna (83), 1952.05
+M:4/4
+L:1/4
+Q: "Tempo guisto" 1/4=84
+K:D
+F/F/^E/F/ G/F/=E/D/ | C<B, B, z |
+B<B A<d | A/F/G/E/ | F<F F z | 
+B<B A<d | A/F/G/E/ | F<F B, z | 
+F/F/^E/F/ G/F/=E/D/ | C<B, B, z |
+
+X:23
+T: Ha én aztat tudtam volna
+O: Jósvafő (Abaúj), Bucsek Istvánné - Fodor Zsuzsanna (86), 1952.07
+M:2/4
+L:1/4
+Q: "Tempo guisto" 1/4=84
+K:F
+A/B/A/G/ | F/G/A | F z | 
+F/G/A/G/ | F/E/D | A, z | 
+F/G/A/A/ | c/c/ d | A z | 
+A/B/A/G/ | F/F/ E | D z | 
+
+X:24
+T:Sárga csikóm
+O:Bodmér (Fejér), Özv. Paksz Lajosné - Lengyel ILona (61) 1952.07
+M:4/4
+L:1/4
+Q: "Poco rubato" 1/4=60
+K:C
+F/E/F/G/ A<G | D2 D z | 
+d/B/c/d/ e<d | A2 A z | 
+d<B d d | A>B A G | 
+F/E/F/G/ A<G | D2 D z | 
+
+X:25
+T:Zöld búzából barázdába
+O:Oroszlány (Komárom), Balogh Vilmosné - Jankó Klára (37), 1952.07
+M:4/4
+L:1/4
+Q:"Tempo guisto" 1/4=96
+K:C
+GcEG | A/A/G/G/ D>F | E<C C z | 
+e>d c<c | c/c/F/A/ | A<G G z | 
+e>d c<c | c<c F A/A/ | G/G/c/E/ G z | 
+G c E G | A/A/G/G/ C/E/F/E/ | D<C C z |  
+
+X:26
+T: Sárga szeme van a kukoricának
+O: Bodmér (Fejér), Özv. Paksz Lajosné - Lengyel Ilona (61), 1952.07
+M:4/4
+L:1/4
+Q: "Tempo guisto" 1/4=96
+K:Bb
+F/B/A/G/ F/G/F/E/ | D<B,B, z | 
+d/d/c/B/ G/A/B/A/ | G<F F z | 
+d/d/c/B/ G/A/B/A/ | G<F C z | 
+F/B/A/G/ F/G/F/E/ | D<B,B, z | 
+
+X:27
+T: Le, le, letörött
+O: Oroszlány (Komárom), Jankó Miklós (44), 1952.10
+Q: "Tempo guisto" 1/4=110
+M:4/4
+L:1/4
+K:Eb
+G c G/F/E/D/ | C<E G<F | C2 C z | 
+ecdc | GB F<A | G2 G z | 
+e c/c/ d<c | G>B F<A | G2 F z | 
+G c G/F/E/D/ | C E G<F | C2 C z | 
+
+X:28
+T: Szépen szólnak
+O: Oroszlány (Komárom), Jankó Miklós (44), 1952.10
+Q: "Tempo guisto" 1/4=96
+M:4/4
+L:1/4
+K:D
+F F B E | D/C/B,/^A,/ | C<B, B, z |
+d d c<B | e<c A<F | D<E F z | 
+d<d c<B | e<c A<F | D<E F z | 
+F B F<E | D/C/B,/^A,/ | C<B, B, z |
+
+X:29
+T: Káposzta, káposzta
+O: Oroszlány (Komárom), Jankó Miklós (44), 1952.10
+Q: "Tempo guisto" 1/4=96
+M:4/4
+L:1/4
+K:Eb
+cdc<A | G2 F2 | G G C F | E D C z | 
+GG e<e | d2 c2 | dcB F | B<A G z |
+GG e<e | d2 c2 | dcB/B/F/F/ | B A G z |
+cdcA | G2 F2 | G G C F | E<D C z | 
+ 
+X:30
+T: Kikötöm a lovamat
+O: Oroszlány (Komárom), Jankó Miklós (44), 1952.10
+Q: "Tempo guisto" 1/4=110
+M:4/4
+L:1/4
+K:Eb
+c/c/G/G/ F/G/C/D/ | F>E F<D | C2 C z | 
+c/c/c/d/ c<B | G<c B A | G2 G z | 
+c/c/c/d/ c<B | G<c B A | G2 B z | 
+c/c/G/G/ F/G/C/D/ | FEF<D | C2 C z | 
+
+X:31
+T: Kikötöm a lovam
+O: Oroszlány (Komárom), Jankó Miklós (44), 1952.10
+Q: "Tempo guisto" 1/4=110
+M:4/4
+L:1/4
+K:Eb
+c/c/G/G/ F/G/C/D/ | E>F E<D | C2 C z | 
+c/c/c/d/ c<B | G<c BA | G2 G z | 
+c/c/c/d/ c<B | G<c BA | G2 B z | 
+c/c/G/G/ F/G/C/D/ | E>F E<D | C2 C z | 
+
+X:32
+T: Áll egy hadihajó
+O: Györgytarló (Zemplén), Tamók Juliska (18), 1954.03
+M:4/4
+L:1/4
+Q: "Tempo guisto" 1/4=120
+K:D
+A/A/D/D/ F<A | B/A/G/F/ | E<D D z | 
+A/d/c/d/ e<d | B/B/G/A/ | B<A A z | 
+A/d/c/d/ e<d | B/B/G/A/ B<A | B/A/G/F/ E z | 
+A/A/D/D/ F A/a/ | B/A/G/F/ | E<D D z | 
+
+X:33
+T: Akkor szép a huszár
+O: Felsőtárkány (Heves), Özv. Farkas Benedekné - Bugyi Mária (76), 1953.05
+Q: "Tempo guisto" 1/4=110
+M:4/4
+L:1/4
+K:C
+C/C/C D/E/F/A/ | G<E F<D |  C2 C z | 
+G/G/G A/B/c/e/ | d B c A | G2 G z | 
+c/d/c/c/ G/A/ G | F/E/D/C/ | A<A G z | 
+C/C/C D/E/F/A/ | G<E F<D |  C2 C z | 
+
+X:34
+T: Monostori zöld erdőben születtem
+O: Kistelek (Csongrád), Paragi Józsefné - Magyar Erzsébet (42), 1952.02
+Q: "Tempo guisto" 1/4=90
+M:4/4
+L:1/4
+K:F
+D<D d<d | c d c A | G<A D z | 
+D<D d<d | c d c<A | G A D z | 
+B>A G<A | F D F<A | A<E A z | 
+A>G A<d | c F G>F | E<D D z | 
+
+X:35
+T: Rózsa, Rózsa, Bazsarózsa
+O: Kistelek (Csongrád), Paragi Józsefné - Magyar Erzsébet (42), 1952.02
+Q: "Tempo guisto" 1/4=96
+M:4/4
+L:1/4
+K:G
+A>B GA | B/A/G/F/ | E<D D z | 
+d A B<c | B/A/d/B/ | G<A A z | 
+d>A B<c | B/A/d/B/ G/F/G/A/ | F<E D z | 
+A>B GA | B/A/G/F/ | E<D D z | 
+
+X:36
+T:Mikor én még kicsit voltam
+O:Jósvafő (Abaúj), Özv. Bucsek Istvánné - Fodor Zsuzsanna (86), 1952.07
+Q: "Tempo guisto" 1/4=84
+M:2/4
+L:1/4
+K:Bb
+B/B/B/c/ | d/c/B | A z | 
+G/G/G/A/ | B/A/G | F z | 
+E/E/E/F/ | G/F/E/D/ | 
+C/C/C/D/ | E/D/C | B, z | 
+
+X:37
+T:Elmennék nálatok
+O:Szögliget (Abaúj), Magyar Ferenc (75), 1952.07
+Q: "Rubato" 1/4=60
+M:2/4
+L:1/4
+K:C
+F/E/D | F/E/D | 
+F/G/ (A{/G}) | A/G/F |
+F/G/ (A{/d}) | d/d/c |
+A/<F/A/<G/ | D D | 
+
+X:38
+T:Ha a Tiszán
+O: Környe (Komárom), Zelenai Béla (45)
+Q: "Tempo guisto" 1/4=84
+M:4/4
+L:1/4
+K:F
+F<F C<C | G>A BG | F<A C z |
+FFCC | G>A B<G | F<A C z |
+c>c d d | c>d c F | c>c G z | c<c G z | 
+B/A/G/A/ F C | B/A/G/A/ F C | F>G F E | F2 F z | 
+
+X:39
+T: Megérett a búza...
+O: Oroszlány (Komárom), Balogh Vilmosné - Jankó Klára (37), 1952.07
+Q: "Tempo guisto" 1/4=107
+M:4/4
+L:1/4
+K:C
+G/F/E/F/ G<A | GF E<D |  C2 C z | 
+c/B/c/d/ ec | e<d c A | G2 G z | 
+c<d e d | c/B/d/c/ B<A | G2 c z | 
+G/F/E/F/ G<A | G>F E<D | C2 C z | 
+
+X:40
+T: Fehér az akácfa
+O: Kisapáti (Veszprém), Horváth Mária (18), 1952.08
+Q: "Tempo guisto" 1/4=96
+N: Szentirmay Elemérnek a 1881-ben keletkezett s a nép ajkán is elterjedt dala
+M:4/4
+L:1/4
+K:D
+B/F/F/G/ F E | F/C/D/E/ D C | D<B, B, z | 
+D E F F | B/B/B/c/ d<c | B<G F z | 
+D E F F | B/B/B/c/ d<c | B<F A z | 
+B/F/F/G/ F E | F/C/D/E/ D C | D<B, B, z | 
