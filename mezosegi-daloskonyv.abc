@@ -20,11 +20,31 @@ L:1/4
 K:F
 (3:2:2 BG/ G/G (3:2:2 cB/ B/B | c B3/2 A z3/2 | 
 G/=B/ d/d e/d/ d _B/ | A/(A/ A3/2) A z3/2 | 
-G/=B/ d/d e/<d/ d d/ | ^c B3/2 =c z3/2 | 
+G/=B/ d/d e/>d/ d d/ | ^c B3/2 =c z3/2 | 
 B/>G/ G/G (3:2:2 cB/ A ^F/ | G/(G/G3/2) G z3/2 | 
 
+X:21
+T: Válasz úti csárdába
+O: Ördöngősfüzes, Hideg Istvánné - Lakatos Anna "Drága" (73), 2008
+M:2/4
+L:1/4
+K:Bb
+G/B/ A/G/ | d g | d z | 
+g/g/ a/g/ | f f/g/ | 
+a/g/ f/g/ | d B/c/ | 
+d/e/ d/c/ | B A | G z | 
 
 
+X:25
+T: Szégyen lenne, hogy ha én azt nem tudnám...
+O: Válaszút, Kallós Györgyné - Szakács Juliska "Minácsi", 1962
+M:4/4
+L:1/4
+K:Bb
+B/A/G/B/ d/c/d/B/ | A<G F z | 
+d/d/B/d/ f/f/g/g/ | f<d d z | 
+d/d/B/d/ f/f/g/g/ | f<d G z | 
+B/A/G/B/ d/^c/d/B/ | A<G G z | 
 
 X:43
 T:Csavargónak, tekergőnek
@@ -35,3 +55,60 @@ g/g/a/g/ d/e/f/g/ | a/g/f/e/ d<c | G2 G z |
 g/g/a/g/ d/e/f/g/ | a/g/f/e/ d c | G2 G z | 
 c d e/d/c/G/ | f (f/g/) a/a/f/a/ | g2 d z | 
 g/g/a/g/ d/e/f/g/ | a/g/f/e/ d<c | G2 G z | 
+
+X:48
+T:Zavaros a Tisza...
+O: Válaszút
+M:4/4
+L:1/4
+K:Bb
+B<B c<c | G2 F z | 
+d<B d g | d2 d z | 
+f f g g | f<d Bc | 
+d g d<c | G2 G z | 
+
+X:58
+T: Sír az egyik szemem...
+O: Magyarszovát, Maneszes Mihályné - Szabó Anna (35), 1963
+Q: "Guisto"
+M:10/8
+L:1/4
+K:Bb
+f/f/ f d/ d/(d/d3/2) | e/e/ d/d c B3/2 | 
+f/f/ fd/ c/(d/d3/2) | e/e/ d/d c B3/2 | 
+F/G/ G/ G _A F3/2 | B/B/ c/ e c B3/2 | 
+F/F/ B/ B c F3/2 | F/G/ G/ G  G G3/2 | 
+
+X:61
+T: Nekem is volt édesanyám...
+O: Magyarszovát, Maneszes Márton "Kántor" (53), 1991
+M:4/4
+L:1/8
+K:Bb
+ggff ggdd | (ff) cc B2 z2 | 
+ggff ggdd | ffcc B2 z2 | 
+Bcdd dcBF | Bcdd dc B2 | 
+FG Bc dB cc | G G3 G2 z2 | 
+
+X:66
+T: Azt gondolod régi babám...
+O: Magyarszovát, Kádár Sándorné - Pap Erzsébet (47), Maneszes "Láli" Józsefné - Tóth Mária (58), Székely Andrásné - Sós Erzsébet (50), 1982
+M:4/4
+L:1/4
+K:Bb
+g/g/f/f/ g/g/a/g/ | d c G z | 
+g/g/f/f/ g/g/a/g/ | d c G z | 
+F/A/F/F/ A/A/c/c/ | f/f/f/e/ d/c/ B | 
+A/A/F/F/ A/A/c/c/ | G<G G z | 
+
+X:73
+T: Barázdában szépen szól a pacsirta...
+O: Magyarpalatka, Papp Anna (62), 1963
+M:10/8
+L:1/4
+K:F
+g/f/ d/d d/c/ c/B | d d3/2 (f f) z/ | 
+g/f/ d/d d/c/ c/B | d c3/2 d z3/2 | 
+d/d/ dB/ c/B/ G/G | d c3/2 B z3/2 | 
+f/d/ dd/ B/d/ cB/ | A/(G/G3/2) G z3/2 |
+
