@@ -1,0 +1,108 @@
+I:abc-charset utf-8
+B: Százszorszép, 100 magyar népdal, Zeneműkiadó, 1972.
+
+X:1
+T: Serkenj fel
+S: Nagyszalonta (Bihar), 1916
+Q: "Moderato" 1/4=76
+M:2/4
+L:1/4
+K:F
+F/F/C | F/<F/ F | F/F/G | A/G/ F/ z/ | 
+B/<A/G | G/G/ c | B/A/ G | A/G/ F/ z |
+
+X:2
+T: Körtéfa
+O: Ghymes (Nyitra), 1906
+Q:"Poco rubato" 1/4=69
+M:4/4
+L:1/4
+K:C
+GA(Bc) | d2 c A | 
+GA(Bc) | d2 c A | 
+BA^G^F | D2 A2 | 
+cBA2 | E2 EE | 
+
+X:3
+T: Mikor engem assszentáltak
+O: Ghymes (Nyitra), 1906
+Q: "Lento, parlandon" 1/4=66
+M:none
+L:1/8
+K:C
+A<AEE | AAEE z2 |
+ABc<B | AB AG z2 |
+A>B c<B | A>B A<G |
+D/D/F/F/ A/A/G/F/ | E<E E<E z2 |
+
+X:4
+T: Rozmaringnak kétféle szokása
+O: Ghymes (Nyitra), 1906
+Q:1/4=112
+M:4/4
+L:1/4
+K:Bb
+G>^F GA | BcB<A | G2 D z | 
+G>^F GA | BcB<A | G2 D z | 
+d>d c<c | ddG2 | F2 =E/D/ z | 
+G<A B<c | B<A G2 | D2 D/D/ z | 
+
+X:5
+T:Párta, párta
+O: Ghymes (Nyitra), 1906
+Q: "Moderato"
+M:4/4
+L:1/4
+K:G
+BBcB | A>GFE | F2 B, z | 
+B<B c<B | AGF<E | D2 D z | 
+GFE<F | B,>G F<E | D2 D z | 
+EEAG | F<E ^D E | B,2 B, z | 
+
+X:6
+T:Ne aludj el!
+O: Ghymes (Nyitra), 1906
+Q: "Tranquillo"
+M:6/8
+L:1/4
+K:G
+E/E/B/ B3/2 | cB/ AB/ | G/ED3/2 | z |
+FE/ F/HG | c/<B/A/ B3/2 | G/F/ E3/2 | z |
+
+X:7
+T: Szőlőhegyen keresztül
+O: Ghymes (Nyitra), 1906
+Q: "Allegretto grazioso" 1/4=132
+M:2/4
+L:1/4
+K:C
+A/A/A/G/ | A A/G/ | A/B/c/B/ | G ^F | D2 | 
+c/B/A/G/ | F F/F/ | F/G/A/G/ | F E | D2 | 
+c B/A/ | F/F/F/F/ | F/F/F/F/ | F C | D z | 
+c B/A/ | F/F/F/F/ | F/F/F/F/ | F C | D z |
+
+X:8
+T: Mikor én a kufferomat pakoltam
+O: Ghymes (Nyitra), 1916
+Q:1/4=108
+M:4/4
+M:4/4
+M:4/4
+L:1/4
+K:D
+B/c/d/c/ B/A/G/F/ | E<B, B, z | 
+d<B d<c | d/B/A/F/ | D<E F z | 
+d<B d<c | d/B/A/F/ | D<E F z | 
+B/c/d/c/ B/A/G/F/ | E<B, B, z | 
+
+X:9
+T: Édesanyám, ha megúnt
+O: Béd (Nyitra), 1906
+Q: "Lento" 1/4=60
+M:4/4
+L:1/4
+K:G
+G>F B/<A/ | G/F/ A>G | F<D D z | 
+A/A/ A<d | c>B d/G/ | B<A A z | 
+A/A/ A<d | c>B d/G/ | F/D/ G z |
+G>F B/A/ | G/F/ A>G | F<D D z | 

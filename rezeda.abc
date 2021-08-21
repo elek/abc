@@ -579,3 +579,509 @@ c/>A/ A/<A/ | A/A/G/F/ | F/G/A/G/ | F F/ z/ |
 (3:2:2 cA/  (3:2:2 A/A | (3:2:2 A/A G/F/ | A/G/F/E/ | D D/ z/ | 
 (3:2:2 F G/ A/G/ | A/A/G/F/ | G/G/F/C/ | F F/ z/ | 
 F/G/A/G/ | d/G/A/F/ | (3:2:3 G/z/G/ (3:2:3 F/z/E/ | D D | 
+
+X:51
+T: Mikor kend es Laci bátyám szépen hegedűlne
+O: Trunk (Bákó), 1932
+Q: 1/4=152
+M:2/4
+L:1/8
+K:D
+DFAA | AAAA | BAGB | A2 A2 | 
+DFAA | AAAA | BAGB | A2 A2 | 
+GFAA | FDE2 | DFAA | FDE2 | 
+FFEE | D2 z2 |
+
+X:52
+T: Duna vize, Tisza vize
+O: Lészped (Bákó), 1932
+Q: "Rubato" 1/8=179
+L:1/4
+K:D
+AABA | FDEA,2 | A/A/G/F/ | E/ D2 D// z// |
+AABA | FDEA, | B/A/G/F/ | E/ D2 D// z// z | 
+G>F E<E | G/F/G/A/ | B<B A2 z2 |
+BABA | B/A/G/F/ E D | A/A/G/F/ | E/ D2 D/ z/ z |
+
+X:53
+T: Porzik, porzik az Onesti utca
+O: Onest (Bákó), 1929
+Q:1/4=120
+L:1/4
+K:Eb
+GGcG | A/G/F/A/ G E | D/E/G/F/ E<D | C2 C z | 
+GGcG | A/G/F/A/ G E | D/E/G/F/ E<D | C2 C z | 
+c>d c<B | A/G/F/A/ G z | c>d c<B | A/G/F/A/ G z | 
+G/G/=A/=B/ c G | A/G/F/A/ G E | D/E/G/F/ E<D | C2 C z | 
+
+X:54
+T: Vásárhelyt van egy ház
+O: Trunk (Bákó), 1929
+Q: "Parlando"
+L:1/4
+K:F
+A/A/G/F/ A<HA z |
+=B/A/^G/F/ A<=G | 
+HA HG A/^G/F/D/ | 
+F/A/G/<G/ D>D z/ z |
+
+X:55
+T: Rengedező nádszál
+O: Bogdánfalva, 1929
+Q: "Parlando"
+L:1/4
+K:F
+c/c/ A/G/ c<Hc z |
+B/B/ A/G/ A<HG z |
+c/B/ A/G/ HA HF | 
+G/F/_E/C/ HF HD | 
+
+X:58
+T: Ahol én elmegyek
+O: Gajcsána (Tekucs), 1929
+Q: Parlando
+L:1/4
+K:F
+c/c/d/c/ B<HA |
+c>B A/G/ F<G Hz|
+A/c/B/A/ F<G | 
+A/G/F/_E/ HD HD | 
+
+X:59
+T: Utca, utca, bánat utca
+O: Onest (Bákó), 1929
+Q: "Andante" 1/4=132
+M:2/4
+L:1/4
+K:C
+G/G/G/G/ | G/G/G | c2 | 
+B/c/d/e/ | d/B/A | G2 | 
+c2 | G2 | A/A/G/F/ | E/D/C | F2 | 
+E/F/G/A/ | G/E/ D | C2 | 
+
+X:60
+T: Kisétálél kis kertembe
+O: Trunk (Bákó), 1932
+Q: 1/4=116
+L:1/4
+K:G
+B>c (3:2:2 BA2 | G>F (3:2:2 GA2 | 
+B>c (3:2:2 BA2 | G2 z z/ |
+B>c (3:2:2 BA2 | G>A (3:2:2 ED2 | 
+G>A (3:2:2 G=F2 | E2 z2 |
+
+X:61
+T:Édesanyám almafája
+O: Józseffalva, 1932
+Q: Parlando
+L:1/4
+K:C
+A/A/A/A/ | B/c/ B HA2 |
+F/F/F/G/ | A/A/ G HF2 z |
+F/F/F/G/ | A/A/ G F2 | 
+A/A/G/F/ | G/E/ HD D2 | 
+
+X:62
+T: Erdő, erdő, kerek erdő
+O: Szeketura (Bákó), 1929
+Q: Parlando
+L:1/4
+K:C
+BBBB | B<d B/ HA2 |
+dAB<B | A B A G2 z |
+G A B<B | B d A/ G2 |
+G>A G<F | E<F E/ HE2 |
+
+X:63
+T: Elment az én rózsám
+O: Trunk (Bákó), 1929
+Q: "Parlando" 1/4=104
+L:1/4
+K:A
+AE F<G | (A>B) (FE) | 
+B c d<c | B2 B z | 
+d (c/B/) c<B | (A>B) (FE) | 
+B =G A<=G | F2 F z | 
+
+X:64
+T: Ne fújj szél
+O: Onest (Bákó), 1929
+Q: "Parlando"
+L:1/4
+K:F
+d/d/ c2 B/ | A>G F<G | F G HA2 | 
+d/d/c2 B/ | A>G F<G | F G A2 | 
+D/D/ G/F/ E/D/ C2 |
+F/F/A/A/ G/F (E/G2F/) | E/D2 D z | 
+
+X:65
+T: Készülk lovam készülj
+O: Chetres (Bákó), 1930
+Q: "Parlando"
+L:1/4
+K:C
+c/B/A/^G/A/ A3/2 z | c3/2 (B/A/) | B// A3/2 ^G/ F-F2 z z/ |
+F/F/F/F/ (A/>G A) ((G G//)F//E//F//) z/ z | G3/2 E/E/E/E/ E3/2-E z |
+A/A/G/G/ A/ A z// | B// A3/4 G/ F3/2 D | D3/2 z |
+D/D/D/D/ F F z/ | F// E3/4 D3/4 ^C// D/ D3/2-D z z |
+
+X:66
+T: Árva az a madár kinek párja nincsen
+O: Lábnik (Bákó), 1932
+Q: "Parlando"
+L:1/4
+K:C
+d/d/c/B/A/B/ | d/c/B/A/ G/ HA3/2 | 
+A/B/d/c/B/A/ | A/G/G/F/ HE HE | |
+A/_B/B/A/G/F/ | G/A/G/F/ E<D | 
+G/A/G/F/E/D/ | F/F/G/F/ HE HD |
+
+X:67
+T: Sirass rózsám, sirass
+O: Trunk (Bákó), 1929
+Q: "Parlando"
+L:1/4
+K:C
+d/d/c/B/ c<d | d/d/c/B/ B<HA | 
+d>c B/A/ (G/B/) A2 | A/A/B/A/ | G2 G z | 
+c/B/A/G/ B<A | G/E/G/<F/ E D2 z |
+A/B/A/^G/ F G | A/<A/ F/E/ D2 D z |
+
+X:68
+T: Piros, piros szekfő
+O: Trunk (Bákó), 1938
+Q: "Guisto" 1/4=120
+L:1/4
+K:C
+A//A//-A c3//_B3// | A c |
+G/ G A/G/ | F E z// z/ |
+G//G//-G A/G3/4 | F G |
+C/C/F/_E/ | D D// z// z/ | 
+
+X:69
+T: Fut a bácsú ló után
+O: Bogdánfalva (Bákó), 1929
+Q: 1/4=160
+M:2/4
+L:1/4
+K:F
+D/F/A/A/ | A/A/A | 
+G/G/c/B/ | A A | 
+A (G/E/)| G (F/E/) | 
+D/F/A/A/ | D D/ z/ | 
+
+X:70
+T: Este jő, szürkül bé
+O: Gioseni (Bákó), 1929
+Q: 1/4=144
+M:2/4
+L:1/4
+K:F
+D/A/ A | A/G/G | 
+c/c/c/B/ | A/G/F | 
+G/A/G/(F//C//) | C/C/ F | 
+G/G/F/_E/ | D/<D/ D/ z/ | 
+
+X:71
+T: Cinege gágu
+O: Trunk (Bákó) 1930
+Q: 1/4=160
+M:2/4
+L:1/4
+K:F
+(3:2:3 c/c/c/ c/A/ | B/G/ A | 
+(3:2:3 c/c/c/ c/A/ | B/G/ A | 
+c/c/c/A/ | B/G/F | 
+c/c/c/A/ | B/G/F | 
+
+X:72
+T: Tamás Gyurka ideki
+O: Klézse (Bákó), 1930
+Q: 1/4=138
+L:1/4
+M:2/4
+K:F
+F/F/F/F/ | c d | (cA) | 
+c/c/c/A/ | B (3:2:3 (A/G/A/) | F z | 
+A/c/c/A/ | B (3:2:3 (A/G/F/) |(GF)
+A/c/c/A/ | B (3:2:3 (A/G/A/) | F z | 
+
+X:73
+T: Pista Mari vetett ágyát
+O: Onest (Bákó), 1929
+Q: 1/4=152
+M:4/4
+L:1/4
+K:D
+FAFA | FAGF | 
+BAG<F | E2 B,z | 
+D>E FD | B,>D F E | 
+CA,B,C | D2 D z | 
+
+X:74
+T: Mikor kicsiny lányka voltam
+O: Geoseni (Bákó), 1929
+Q: 1/4=144
+M:2/4
+L:1/8
+K:C
+A<AA<A | BA^GF | 
+GGGG | AAGF | 
+AAGF | A2 z2 | 
+BA^GF | D2 z2 | 
+
+X:75
+T: Patkolják a lovamat
+O: Trunk (Bákó), 1929
+Q: 1/4=176
+M:4/4
+L:1/4
+K:F
+c>B A>B | c A d2 | 
+c>B A>G | A G F z | 
+A>G F>G | AGc2 | 
+A>G F>G | FED z | 
+
+X:76
+T: Mihály Bíró
+O: Gajcsána (Tekucs), 1929
+Q: 1/4=168
+M:4/4
+L:1/4
+K:G
+dcB>A | c/B/ A d z | 
+dcB>G | A/F/ G A z | 
+ABG>D | G/F/ E A z | 
+ABGD | G/=F/ E E z | 
+
+X:77
+T: Hidló végén, padló végén
+O: Bogdánfalva (Bákó), 1929
+Q: "Guisto" 1/4=152
+M:2/4
+L:1/8
+K:G
+A(B/A/) GE | A(B/A/) GE | 
+F/E/D DF | A2 A z | 
+A(B/A/) GE | A(B/A/) GE | 
+A/F/D DE | D2 D z | 
+
+X:78
+T: Hejtok lányok guzsalyasba
+O: Trunk (Bákó), 1938
+Q: 1/4=144
+M:2/4
+L:1/4
+K:C
+A/B/c/B/ | cB | AG | 
+d/c/B/A/ | G (F//E//D/) | D D/ z/ |
+D/F/E/D/ | G (F//E//D/) | E e | 
+d/c/B/A/ | G (F//E//D/) | D D/ z/ | 
+
+X:79
+T: Emez asszony veje vagyok
+O: Trunk (Bákó), 1930
+Q: 1/4=168
+M:2/4
+L:1/4
+K:D
+DF | AB | (A>F) | (G/E/) (E/G/) | F z | 
+DF | AB | (A>F) | (G/E/) (E/G/) | F z | 
+B/A/G/F/ | E2 | D F | A z | 
+B/A/G/F/ | (E>G) | F E | D z | 
+
+X:80
+T: Ahol két szép legény vagyon
+O: Kickofalva (Román), 1935
+Q: 1/4=170
+L:1/4
+K:F
+d/A3/4 d/d/ | d/c3/4 (3:2:2 BA2-A/ z/ |
+d3/4A3/4 B/B/ | B/<B/ (3:2:2 cB/ G z | 
+BdG2 | (3:2:2 FE/ DA z/ z// |
+BdG2 | (3:2:2 FE/ D D/ z/ z z |
+
+X:81
+T: Hegyen földön járogatok vala
+O: Trunk (Bákó), 1938
+Q: 1/4=144
+L:1/8
+K:G
+c(B/A/) BA GG FF | (A3B//A//B//) A z |
+c(B/A/) BA GG FF | (G3A/G/) F z |
+FFAA GGEF | D3 D z |
+AAAA GG EF | D3 D z |
+
+X:82
+T: A pünkősdi rózsa 
+O: Lészped (Bákó), 1932
+Q: 1/4=126
+L:1/8
+M:4/8
+K:F
+DA^FG | A2 D z | 
+(A/B) (A/G/) G/ G | A2 A z | 
+c (B/A/) (G/^F/) G | A2 ^F2 | 
+AG^F_E | D2 D z | 
+
+X:83
+T: Járjad lábom, járd ki most
+O: Lészped (Bákó), 1932
+Q: 1/4=152
+M:4/4
+L:1/4
+K:Eb
+Fccc | dBc z | 
+cBBA | G<F E z | 
+B<c BA | G<E Fz | 
+G<EFE | C<C C z | 
+
+X:84
+T: Verjen meg az Istaen téged
+O: Onest (Bákó), 1929
+Q:1/4=176
+M:2/4
+L:1/4
+K:F
+c/c/B/B/ | A/A/G/B/ | 
+A/A/G/F/ | G/G/F | Cz | 
+F/G/A | c2 | Ac | G2 | F z | 
+
+X:85
+T: Édesanyám valahára
+O: Trunk (Bákó), 1932
+Q: 1/4=120
+M:3/4
+L:1/4
+K:F
+G/G/FG | A/A/ D | C z |
+F/G/A/A/ | c/B/A/(G//F//) |
+F/G/G/G/ | A/F/ _E | D z |
+
+X:86
+T: Feljött a nap szépen ragyog
+O: Bogdánfalva (Bákó), 1929
+Q: 1/8=208
+M:none
+L:1/4
+K:C
+F/G/ A c/ | G A/ F C/ |
+F/G/ A c/ | G A/ F D/ |
+D/E/ F D/ | E A,/ D/ D/ z/ |
+
+X:87
+T: Fejér retek fekete
+O: Bogdánfalva (Bákó), 1929
+Q: 1/4=160
+M:2/4
+L:1/4
+K:C
+d/c/B/A/ | B/A/(^G/F/) | 
+^G/F/E/D/ | A2 | 
+d/c/B/A/ | B/A/(^G/F/) | 
+^G/F/E/A/ | D2 | 
+
+X:88
+T: Mikor leány voltam
+O: Bogdánfalva (Bákó), 1929
+Q:1/4=116
+M:none
+L:1/4
+K:Ab
+F/=A/ c c | (c/=A/) B |
+c/=A/ B B | =A/F/ z |
+F/G/A A | (G/F/)G |
+A/F/G G | A/F/ z |
+
+X:89
+T: Elvetettem kenderkémet
+O: Bogdánfalva (Bákó), 1935
+Q: 1/4=120
+M:2/4
+L:1/4
+K:F
+D/G/G/G/ | G/G/ G/B/ | 
+A/G/D | A/G/D | 
+d (A/>G/) | G/B/ d/d/ |
+d (A/>G/) | G/(E//^F//) G/G/ | 
+
+X:90
+T: Ne menj rózsám a tarlóra
+O: Trunk (Bákó), 1932
+Q: 1/4=144
+M:4/4
+L:1/4
+K:C
+DBBd | cB (B//A//G/) G | 
+AAAB | AG^FE | 
+D2 B2 | A^FGE | D z |
+
+X:91
+T: A kert feneikben
+O: Mekényes, 1953
+Q: "Parlando" 1/4=84
+M:none
+L:1/8
+K:C
+FAc<c d (c7/2 A/) | AFGG A F3 | 
+FAc<c d (c7/2 A/) | AFGF E D3 z2 |
+FFAF G A7/2 | G3 F AG F D3 z2 |
+FFAF G A3 | G3 F A/G/ F/ D3 |
+
+X:92
+T: Gyere ki szívem (part)
+N: more variant
+O: Onest (Bákó), 1929
+M:none
+L:1/4
+K:F
+c/c/B/A/ | B z |
+d/c/B/A/ | B z |
+B/A/G/G/ | A z | 
+B/A/G/G/ | F z | 
+
+X:93
+T: Én is, én is csak úgy élek
+O: Trunk (Bákó), 1930
+Q:1/4=72
+M:2/4
+L:1/8
+K:F
+cccA | BBA(G/A/) | 
+(B/A/)G/B/ dc | (Bd) F2 | 
+cccA | BBA(G/A/) | 
+(B/A/)G/B/ dD | G2 G z |
+
+X:94
+T: Ideki a csenderbe, csenderbe
+O: Bogdánfalva (Bákó), 1930
+Q:1/4=100
+M:4/8
+L:1/8
+K:F
+GGGD | B(c/B/) A2 | B(c/B/) A2 | 
+dd(c/B/) B | d/c/B/A/ GD | 
+GG/A/ B(A/G/) | A(G/^F/) G z | 
+
+X:95
+T: Énekeljünk, énekeljünk
+O: Klézse (Bákó), 1930
+Q:1/4=152
+M:4/4
+L:1/4
+K:Ab
+BcBc | cBBA | 
+c(c/A/) B (B/A/) | AFFF | 
+A>F FE | ABcA | 
+c (c/A/) B (B/A/) | AFFF  | 
+
+X:96
+T: Nekünk a legszebbik estét
+O: Istensegíts-Majos (Tolna), 1952
+Q: "Parlando"
+M:none
+L:1/4
+K:C
+c/(Hdc/) | d/c/c/A/ | G/F2 z/ z | 
+A/G/G/F/D/C/ D/G2 |
+A/G/G/F/D/C/ D/ HD2 |
