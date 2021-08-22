@@ -1,0 +1,218 @@
+I:abc-charset utf-8
+
+X:7
+T: Kinyílt a rózsa
+O: Törökkoppány (Somogy)
+Q: "Allegretto"
+L:1/4
+K:F
+d c/c/ | d G |
+c c/c/ | d B | 
+B/c/d/d/ | d/c/B/G/ |
+F/F/F/F/ | G G |
+
+X:8
+T: Fehér fuszulyka virág
+O: Torockó
+Q: "Andante"
+M:4/4
+L:1/4
+K:C
+D<Dd<d | d<A G z | 
+A<d A<F | A<G D z | 
+A<A G F | A<G D z | 
+C/C/C F/F/G/G/ | D<D D z | 
+
+X:9
+T: Megrakják a tüzet
+O: Sándorfalva (Csongrád)
+Q: "Parlando"
+L:4/4
+L:1/4
+K:C
+d/d/A/A/ d<d | 
+c/A/A/G/ A<A | 
+G/G/D/D/ G<G | 
+F/D/D/C/ D D | 
+
+X:10
+T: Röpülj páva, röpülj
+O: Sarud (Somogy)
+Q: "Rubato" 1/4=96
+M:3/4
+L:1/4
+K:C
+d>c A/G/ | G<c z | 
+d>c A/G/ | A F z | 
+A>G F/D/ | C<F z | 
+G>F D/C/ | F D2 | 
+
+X:11
+T: Pásztor ember vígan él
+O: Nemespátró
+Q: "Tempo guisto" 1/4=108
+M:4/4
+L:1/4
+K:C
+ddc>F  | A<A A z | 
+ddc>F | A<A A z | 
+d<d c>F | A<A F z | 
+A<G F>C | D<D D z | 
+
+X:12
+T: Vettem majorannát
+O: (Udvarhely)
+Q: "Tempo guisto"
+M:3/8
+L:1/4
+K:Eb
+c/c/A/ | c c/ | B |
+c/A/A/ | Bc/ | A |
+A/G/F/ | AB/ | c |
+A/G/F/ | FG/ | F/ z/ |
+
+X:13
+T: Hess légy
+O: (Csík)
+Q: "Tempo guisto" 1/4=120
+M:2/4
+L:1/4
+K:A
+cc | c/A/ E | 
+A/A/B/B/ | c z | 
+c/c/c/c/ | c/A/G/F/ | 
+A/A/G/G/ | F z | 
+
+X:14
+T: Tavaszi szél vizet áraszt
+O: 'Moldvai-csángó'
+Q: "Allegretto"
+M:4/4
+L:1/4
+K:G
+GABB | A (A/B/) G A | 
+B<B A (A/B/) |  G2 D z | 
+GAB<B | A (A/B/) (G/F/) E | 
+A/ (AB/) GF | E2 E z | 
+
+X:15
+T: Apámért, anyámért
+O: Martonos (Udvarhely)
+Q: "Parlando"
+M:none
+L:1/4
+K:F
+B/c/d/ d/d/ d | B/c/d/d/ d<d | 
+c2-c/A/ B/c/ c/ c | f/d/c/c/ c/ B3 z z/ |
+c>c A/B/ c/ c | c/A/B/B/ G<G | 
+B/B/c/c/ c c | F/F/ B3 B/ | G/ G7/2 z | 
+
+X:16
+T: Kocsmárosné
+O: Resznek (Zala)
+Q: "Tempo guisto" 1/4=108
+M:4/4
+L:1/4
+K:C
+D<D d<d | c>d c<A | G<A D z | 
+D<D d<d | c>d c<A | G<A D z | 
+c>A F<G | A C F G | A C F z | 
+A<A d d | F<F G>F | E<D D |
+
+X:17
+T:El kéne indulni
+O: Gyergyószentmiklós
+Q: "Allegretto" 1/4=94
+M:2/4
+L:1/4
+K:C
+A/d/d/A/ | A G/ z/ | 
+A/A/A/G/ | F D/ z/ |
+A/d/d/A/ | A G/ z/ | 
+A/A/A/G/ | F D/ z/ |
+A/A/A | F/F/F | 
+D/G/F/E/ | D D/z/ | 
+
+X:18
+T: De szeretnék hajnalcsillag lenni
+O: Hódmezővásárhely
+Q: "Tempo guisto" 1/4=108
+M:4/4
+L:1/4
+K:Bb
+c<c c B | G E G F | C2 C z | 
+e<e d c | d B d<c | G2 G z | 
+e<e d c | d B c2 | G F E z | 
+cccB | G E G<F | C2 C z | 
+
+X:19
+T: Csillagok, csillagok
+O: (Zala)
+Q: "Tempo guisto" 1/4=125
+M:4/4
+L:1/4
+K:Eb
+c/c/d/c/ G<E | c>B G<F | C2 C z | 
+e/d/c/d/ B<B | c>d e<c | G2 G z | 
+e/d/c/d/ B<B | c>d e<c | G2 E z | 
+c/c/d/c/ G<E | c>B G<F | C2 C z | 
+
+X:20
+T: A víg egri kaszárnyának
+O: Egerszolát
+Q: "Menetelő"
+M:4/4
+L:1/4
+K:C
+d<d A d | c<A F G | A<G D F | E<D D z | 
+d c e<d | c<A c c | F<A A z | 
+d<c e<d | c A c c | F<A A z | 
+d<d A<d | c<A F<G | A<G D F | E<D D z | 
+
+X:21
+T: Elmegyek elmegyek
+O: Szentgyörgyvölgye
+Q: "Tempo guisto" 1/4=100
+M:2/4
+L:1/4
+K:C
+A A/B/ | c/B/ A | 
+G G/E/ | A A | E z | 
+D D/G/ | A/G/E | 
+C B,/A,/ | D D | A, z | 
+
+X:22
+T: Házunk előtt kedves édesanyám
+O: Hódmezővásárhely
+Q: "Tempo guisto" 1/4=106
+M:4/4
+L:1/4
+K:Bb
+cc B<G | c/c/F/G/ F<E | G/G/F/E/ | D<C C z | 
+c<c B G | c/c/F/G/ F<E | G/G/F/E/ | D<C C z | 
+cedc | B<B G<E | c/e/d/c/ G z | 
+cc B G | c/c/F/G/ F<E | G/G/F/E/ | D<C C z | 
+
+X:23
+T:Réten, réten
+O: (Abaúj-Torna)
+Q: "Mentelő" 1/4=116
+M:4/4
+L:1/4
+K:C
+AEED | C E/D/ C<B, | A,2 A, z |
+ceeB/d/ | c>A A<G | A2 E z | 
+ceeB/d/ | c<A A<G | A2 E z | 
+AEED | C/C/ E/D/ C<B, | A,2 A, z |
+
+X:24
+T:Édesanyám rózsafája
+Q: "Rubato" 1/4=72
+O: (Csík)
+M:4/4
+L:1/4
+K:F
+A>G A/A/ | A/G/ A G2 | 
+c/c/d/ d3/2 | d/c/ G A2 z |
+d3/2 c/c/c/ | c/A/G/ F3/2 |
+c3/2 B/A/G/ | A/G/ D2 D z 
