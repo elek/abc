@@ -1,0 +1,61 @@
+I:abc-charset utf-8
+
+X:172
+T:Édesanyám, ha meguntál tartani
+O: Gyimesfelsőlok, 1965
+Q: "Poco parlando" 1/4=84
+M:none
+L:1/4
+K:Bb
+g/g/ (3:2:2 d/d d/c/B/F/ | (3:2:2 d c/ d z |
+g>g f/e/ (3:2:3 d/(c/B/) (3:2:3 (B/d/) c2 | c<B B z | 
+B/B/c/c/ d g/ (3:2:2 f d/ | (3:2:2 c/ G F z |
+B/B/ c/c d/c/B/c/ | G<G G z | 
+
+X:173
+T: Fekete tyúk mind megette a meggyet
+O: Jávárdipataka, 1962
+Q: "Tempo giusto" 1/4=116
+M:4/4
+L:1/4
+K:F
+d/d/e/^f/ g/g/d/d/ | d<c B z | 
+d/d/e/^f/ g/g/d/d/ | d<c B z | 
+d/d/d/B/ d/d/c/(B//A//) | G<A B z | 
+d/d/d/B/ d/B/c/(B//A//) | G<G G z | 
+
+X:174
+T: Csak titokban akartalak szeretni
+O: Gyimesközéplok, 1957
+Q: "Tempo guisto" 1/4=96
+M:4/4
+L:1/4
+K:F
+g/g/f/d/ f/d/c/B/ | c<d B z | 
+g/g/f/d/ f/d/c/c/ | G<G G z | 
+c/c/B/B/ c/c/f/d/ | c<d B z | 
+B/G/F/E/ F/F/c/c/ | G<G G z | 
+
+X:175
+T: Három hete, hogy a tiszán halászok
+O:Hidegségszáda, 1975
+Q: "Tempo guisto" 1/4=100
+M:4/4
+L:1/4
+K:F
+g/f/f/f/ a/f/f/f/ | B<c B z | 
+g/f/f/f/ a/f/f/f/ | B<c B z | 
+G/G/B/B/ c/c/c/B/ | G<A B z | 
+d/d/g/f/ g/d/d/c/ | B<G G z | 
+
+X:176
+T:Kicsi csillag ha leesik, elterül
+O: Jávárdipataka, 1962
+Q: "Tempo guisto" 1/4=87
+M:4/4
+L:1/4
+K:F
+(5:4:4 B/c/ d/ d (5:4:4 B/c/ d/d |(3:2:2 G G2 F z | 
+(5:4:4 B/c/ d/ d (5:4:4 c/c/ f/d |(3:2:2 d B2 B z | 
+(5:4:2 g f3/2  (5:4:2 dB3/2 | (3:2:4 c/c/ g f  (3:2:4 d/c/ G z |
+(3:2:4 B/c/d B (3:2:4 d/c/ F B | A<G G z | 

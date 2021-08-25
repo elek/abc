@@ -215,4 +215,40 @@ K:F
 A>G A/A/ | A/G/ A G2 | 
 c/c/d/ d3/2 | d/c/ G A2 z |
 d3/2 c/c/c/ | c/A/G/ F3/2 |
-c3/2 B/A/G/ | A/G/ D2 D z 
+c3/2 B/A/G/ | A/G/ D2 D z |
+
+X:25
+T:A szegedi halastó
+O:Horgos
+Q: "Tánclépés" 1/4=120
+M:2/4
+L:1/4
+K:F
+d/d/c/c/ | d/d/c | d/A A/ | 
+d/d/c/B/ | A/F/G | A/F F/ | 
+F/F/G/G/ | A/A/G | A/Ad/ | 
+d/d/c/B/ | A/F/G | F/DD/ | 
+
+X:26
+T: Hull a szilva a fáról
+O: "Csíksomlyó"
+Q: "Tempo guisto" 1/4=116
+M:2/4
+L:1/4
+K:F
+D/D/ d/d/ | c/dd/ | 
+G/G/c/B/ | A/AD/ | 
+G (c/B/) | A/G/F/C/ |  
+F/F/G/F/ | D D/ z/ | 
+
+X:27
+T:Mikor gulásbojtár voltam
+O: Felsőiregh (Tolna)
+Q: "Lassan"
+M:none
+L:1/4
+K:F
+d A c/B/ | A/G/ F HD |
+d A c/B/ | A/G/ F HD |
+G A F/D/ | D/C/  F HD |
+G A c/d/ | A/G/ D HD |
