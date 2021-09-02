@@ -252,3 +252,293 @@ d A c/B/ | A/G/ F HD |
 d A c/B/ | A/G/ F HD |
 G A F/D/ | D/C/  F HD |
 G A c/d/ | A/G/ D HD |
+
+X:28
+T:Ez a kislány
+O: Lövéte
+Q: Parlando
+M:none
+L:1/4
+K:C
+F/G/ A/A F/G/ A/ A | d<d c2 | 
+G/G/G/G/ G/G/D/D/ | A F F/ z/ z | 
+d c A F | G/G/ c _B/ A/G/ D |
+G/G/F/F/ C/C/F/G/ | D<D D/z/ z | 
+
+X:29
+T: Erdők, völgyek
+O: Felsőiregh (Tolna)
+Q: "Parlando"
+M:2/4
+L:1/8
+K:D
+BBBA | BBBA | 
+BcdB | BE AG3 z2 |
+AA B e3 | dBBA | 
+GGGE | DE3 | EE z2 | 
+
+X:30
+T: Esik eső, de nem ázok
+O: Bogyiszló
+Q: "Tempo guisto" 1/4=152
+L:1/4
+K:F
+AA A/G/F/E/ | F2 D2 | 
+G G G/E/F/G/ | A2 A/ z/ z | 
+A F A/F/A/d/ | c2 A2 | 
+G B A/G/F/E/ | D2 D/ z/ z | 
+
+X:31
+T: Elmegyek, elmegyek
+O: Kászonimper (Csík)
+Q: "Parlando" 1/4=72
+L:1/8
+K:F
+FGAAAHA |
+cBAG | DHD3 |
+GFEFGC |
+DE F3 C | C HD3 |
+
+X:32
+T: Fürjecském, fürjecském
+O: (Udvarhely)
+Q: "Tempo guisto"
+M:2/4
+L:1/4
+K:F
+A/G/ A | A/G/ A | 
+c/d/c/B/ | A C | 
+F/G/A | G/E/ C | 
+F/F/E/E/ | D D/ z/ | 
+
+X:33
+T: Ősszel érik
+O: Rimóc (Nógrád)
+Q: "Tempo guisto"
+M:4/4
+L:1/4
+K:F
+A>B A/G/F/C/ | F<G A<G | D2 D z | 
+d<c A c | B<A G<c | A2 A z | 
+d<c A c | B A D/E/F/G/ | A2 B z | 
+A>B A/G/F/C/ | FG A<G | D2 D z | 
+
+X:34
+T:Házasodik a tücsök
+O: Felsőiregh (Tolna)
+Q: "Tánclépés"
+L:1/4
+K:F
+d/c/B/A/ | G/A/ F | G/G/G/G/ | A A |
+d/c/B/A/ | G/A/ F | D/D/C/C/ | D D |
+C/E/C/E/ | F/F/F | G/G/G/G/ | A A |
+d/c/B/A/ | G/A/ F | D/D/C/C/ | D D |
+
+X:35
+T:Látod babám...
+O: Sárpilis
+Q: "Tempo guisto"
+M:4/4
+L:1/4
+K:F
+DA,D<F | AGF<E | D2 D z | 
+A A cB | AAAG | F2Fz | 
+AAcB | A/A/A/G/ F<E | 
+DA, D<F | AGF<E | D2 Dz | 
+
+X:36
+T:Gerencséri utca
+O: Gerencsér (Nyitra)
+Q: Lépést
+M:4/4
+L:1/4
+K:Eb
+C<A GF | C2 C z | 
+G e d<c | G2 G z | 
+Ge d<c | d<c A F | 
+c<c G F | C2 C z | 
+
+X:37
+T:Lement a nap...
+O: (Somogy)
+Q:"Tempo rubato"
+M:4/4
+L:1/4
+K:D
+E/F/G/F/ E/D/F/E/ | B,2 B, z | 
+B/c/d/c/ B/A/c/B/ | F2 F z | 
+B/c/d/c/ B/A/c/B/ | F2 D z | 
+A/B/F/G/ A/G/F/E/ | B,2 B, z | 
+
+X:38
+T:A honvédnak nem kell más
+O:Hódmezővásárhely
+Q:"Menetelő"
+L:1/8
+K:D
+BAGF BADF | EB,3 B,2 z2 | 
+dded cBFB | A F3 F2 z2 | 
+dded cBFB | A F3 F2 z2 | 
+BAGF BADF | E B,3 B,2 z2 |
+
+X:39
+T:Széles a balaton
+O:Sárpilis (Tolna)
+Q:"Tempo guisto"
+M:4/4
+L:1/4
+K:C
+AE G/F/E/D/ | A,<C ED | A,2 A, z | 
+ce d/c/A/B/ | c<d c A | E2 E z | 
+ce d/c/A/B/ | c<d c A | E2 G z | 
+AE G/F/E/D/ | A,C E<D | A,2 A, z | 
+
+X:40
+T:Kispiricsi faluvégen
+O: Mohács
+Q: "Tánclépés" 1/4=104
+M:2/4
+L:1/8
+K:F
+dded | cccc | BBcB | AA A z | 
+dded | cccc | BBcB | AA A z | 
+G2 G2 | FF F z | ddcB | AA A z | 
+G2 G2 | FF F z | CCDC | DD D z | 
+
+X:43
+T:Elment a madárka
+O: Hertelendfalva
+Q: "Szabadon"
+L:1/4
+K:Eb
+C/D/E/F/ | G c |
+d/ e  d/c/ | G/ HG3/2 |
+d/c/ B A | G F H|
+E/F/ (3:2:2 G G2 | C HC z |
+
+X:44
+T:Tollfosztóban voltam
+O:Tolna
+Q:"Tempo guisto"
+M:4/4
+L:1/4
+K:D
+BGFE | A/F/D/C/ B, z | 
+FBdB | c/B/A/G/ F z | 
+FBdB | c/B/A/G/ F/G/ A | 
+B/G/F/E/ | A F | D/C/ B,z |
+
+X:47
+T:Nincsen pénzem
+O:Kiskomárom
+Q:"Tempo guisto"
+M:4/4
+L:1/4
+K:Eb
+cGcG | e<e d2 |
+e/e/f/e/ d c | G F E z |
+e/e/f/e/ d c | G/G/F/F/ E z | 
+G/F/G/A/ B>E | D<C C z |
+
+X:48
+T:De szeretnék
+O:Buják (Nógrád)
+Q:"Tempo guisto"
+M:C
+L:1/4
+K:Bb
+c/G/c/B/ E/G/F/E/ | D<C C z | 
+e/e/f/e/ d/c/G/c/ | B<G G z | 
+e/e/f/e/ d/c/G/c/ | B<B c z | 
+c/G/c/B/ E/G/F/E/ | D<C C z | 
+
+X:49
+T: Fehér László lovat lopott
+O: Doboz (Békés)
+Q:"Parlando"
+M:3/4
+L:1/4
+K:D
+E/E/E/F/G/E/ | E<G z | 
+B/B/c/B/B/E/ | G F z | 
+c>B E/F/ | G/E/ E/ G z |
+F/G/A/B/ | G/G/ F | E2 z | 
+
+X:50
+T:A cseroldalt összejártam
+O: "Közismert"
+Q:"Tempo guisto"
+L:1/4
+K:C
+d/d/A/B/ | c B | A G |
+c/B/A/d/ | G (F/E/) | D D |
+G/F/E/A/ | G F | E E |
+c/B/A/B/ | G (F/E/) | D D |
+
+X:51
+T:Borsót vittem a malomba
+O: Karád
+Q:"Tempo guisto"
+M:2/4
+L:1/4
+K:Bb
+G/A/B/c/ | B/G/G/F/ | 
+B/A/B/c/ | B/G/F/E/ | 
+C D | E/E/ F | 
+E/C/B,/B,/ | C/C/ C | 
+
+X:52
+T:Kaszálják a bogojai rét alját
+O:Gombos
+Q:"Tánclépés" 1/4=112
+L:1/4
+K:C
+D/D/E/F/ G/G/F/E/ | F<D D z | 
+d c d G | A/A/B/c/ | d<A A z | 
+d c d G | A/A/B/c/ | d<A F2 | 
+D/D/E/F/ G/G/F/E/ | F<D D z |
+
+X:53
+T:Ha kimegyek a nényei nagy hegyre
+O:Lukanénye (Nógrád)
+Q:"Allegretto"
+L:1/4
+K:F
+A A d c | G/G/A/F/ | E<D D z | 
+d c e d | G/G/A/B/ | c<A A z | 
+d c e d | G/G/A/B/ | c/AB/ A/F/ D | 
+A<A d<c | A/A/G/F/ | E<D D z |
+
+X:54
+T:A horgosi csárda
+O:Horgos
+Q:"Gyors tánctempó" 1/4=144
+M:4/4
+L:1/8
+K:F
+DFEF G2 F2 | ED A2 D2 z2 | 
+FAAA AAAA | AAAA AAAA | GF G2 F2 z2 | 
+Ac=Bc dd c2 | AAGA BB A2 | 
+GF E2 D2 z2 |
+
+X:55
+T:Ha felmegyek
+O:Tápiószele (Pest)
+Q:"Moderato"
+L:1/8
+K:C
+A,A,A,A, | DDED | C2B,2 | A,2 z2 |
+EECE GG^FG | A2 F2 | E2 z2 |
+EECE | GG^FG | AABA | E2 D2 | E2 z2 |
+A,A,A,A, | DDED | C2B,2 | A,2 z2 |
+
+X:56
+T:Kifeküdtem én a magas tetőre
+O:Székelydobó
+Q:"Moderato"
+L:1/4
+K:Eb
+C/=B,/C/D/ E/D/E/F/ | G<G G z | 
+c/c/d/c/ B/A/G/F/ | G<G G z | 
+G/F/F/F/ E/E/E/E/ | D C G2 | 
+F/F/F/F/ E/E/E/E/ | D<C C z | 
