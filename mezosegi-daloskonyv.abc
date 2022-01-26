@@ -23,6 +23,17 @@ G/=B/ d/d e/d/ d _B/ | A/(A/ A3/2) A z3/2 |
 G/=B/ d/d e/>d/ d d/ | ^c B3/2 =c z3/2 | 
 B/>G/ G/G (3:2:2 cB/ A ^F/ | G/(G/G3/2) G z3/2 | 
 
+X:5
+T:Kék ibolyát ültettem a pohárba
+M:10/8
+K:G
+L:1/4
+D/D/ G/A B/B/ A/A | B/(G/G3/2) D z3/2 |
+B/B/ d/d e/d/ dc/ | B/(A/A3/2) A z3/2 |
+B/B/ d/d e d/d | B/d/ G/A B/A/ G z/ |
+D/D/ G/A B/B/ B/A | A/(G/G3/2) G z3/2 |
+
+
 X:21
 T: Válasz úti csárdába
 O: Ördöngősfüzes, Hideg Istvánné - Lakatos Anna "Drága" (73), 2008
@@ -45,6 +56,18 @@ B/A/G/B/ d/c/d/B/ | A<G F z |
 d/d/B/d/ f/f/g/g/ | f<d d z | 
 d/d/B/d/ f/f/g/g/ | f<d G z | 
 B/A/G/B/ d/^c/d/B/ | A<G G z | 
+
+X:31
+T: Megy a gőzös a Pregyálon kifelé
+O: Válaszút, Kallós Zoltán, 2005
+L:1/4
+M:4/4
+K:Bb
+G G ^F G | c B/c/ (d d/)B/ | A<G G z |
+d (d/f/) e d | c c A<F | B B B z |    
+d (d/f/) e d | G G A B | c<c (d d/)B/ | A<G D z |
+G<G ^F<G | c (B/c/) (d d/)B/ | A<G G z |
+
 
 X:43
 T:Csavargónak, tekergőnek
@@ -112,3 +135,13 @@ g/f/ d/d d/c/ c/B | d c3/2 d z3/2 |
 d/d/ dB/ c/B/ G/G | d c3/2 B z3/2 | 
 f/d/ dd/ B/d/ cB/ | A/(G/G3/2) G z3/2 |
 
+X:115
+T: A füzesi sürű berek
+O: Ördöngősfüzes, Pál Imre, 1970
+M: 4/4
+L: 1/4
+K: C
+(3:2:2 g g2 (3:2:2 f f2 | (3:2:2 e e2 d/ d |
+f>e  e<g | c>c G/ G z/ |
+d>c c<_B | A>G G/ F z/ | 
+G A _B > c | G<G G/G/ z |
