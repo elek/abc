@@ -1,6 +1,38 @@
 I:abc-charset utf-8
 B: Annus néni daloskönyve
 
+X:84
+T: A csap utcán
+Q: "Parlando rubato"
+L:1/8
+M:4/4
+K:Bb
+cBdc fdBA | G4 G2 z2 |
+gfag gffe | d4 d2 z2 |
+gfag gffe | d2 g4 z2 |
+cBdc fdBA | G4 G2 z2 |
+
+X:85
+T: A füzesi bíro lánya talpig fekete gyászba
+Q: "Quasi guisto"
+M:4/4
+K:G
+L:1/8
+GGGG ABcd | edcB | A G3 G2 z2 |
+dddd efga | bagf | e d3 d2 z2 |
+eeee agag | d2 g2 abag | ddee d2 z2|
+GGGG ABcd | edcB | A G3 G2 z2 |
+
+X:86
+Q: "Poco rubato"
+T: A füzesi falu végen
+L: 1/8
+K: F
+ggdd | ff g2 | d2 z2 |
+fggd | ff c2 | B2 z2 |
+Bcff | cd B2 | F2 z2 |
+Bdff | cd B2 | G2 z2 |
+
 X:199
 T: Húzzad cigány mindaddig...
 M:4/4

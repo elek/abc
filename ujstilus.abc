@@ -1,0 +1,134 @@
+I:abc-charset utf-8
+B: Bartók Béla, A magyar népdal.
+
+X:950
+T: Ilavában most faragják azt a fát
+Q: 1/4=80
+L: 1/4
+K:C
+d/B/ G D | G/G/G/c/ | B/A/ G z |
+B/c/ d d | c/B/A/G/ | B/d/ A z |
+B/c/ d d | c/B/A/G/ | B/d/ A z |
+d/B/ G D | (3:2:2 GG/ G/c/ | (3:2:2 B/A G z |
+
+X:961
+T: A Savanyú tizenhat szél gatyája
+Q: 1/4=100
+L:1/4
+K:F
+G/A/ B c | d/d/G/c/ | B/A/ G z |
+d/d/ c g | f/e/ c d | B/A/ B z |
+d/d/ c g | f/e/ c d | B/A/ G z |
+G/A/ B c | d/d/G/c/ | B/A/ G z |
+
+
+X:1010
+T: Végig megyek a budai Lánchídon
+L:1/4
+Q:1/4=116
+K:G
+G/G/ c c | d/B/A/B/ | c/<A/ G z |
+d/d/ g g | a/f/e/f/ | g/e/ d z |
+d/d/ g g | a/f/e/f/ | g/<e/ d z |
+d/<e/ d g | f/e/ (3:2:2 d A/ | c/<B/ G z |
+
+X:2160
+T: A mi házunk felett csak egy csillag van
+Q: 1/4=104
+M:2/4
+L:1/4
+K:Bb
+g/g/ d | f/>d/ B | d/c/B/A/ | G z |
+b/b/ a | g/g/ d | g/<g/f/e/ | d z |
+b/b/a | g/g/ d | g/>g/f/e/ | d z |
+g/g/ d | f/<d/ B | d/<c/B/A/ | G z |
+
+X:2170
+T: Szerelmes vagyok, de jól tudom, kibe
+Q: 1/4=116
+M:4/4
+L:1/4
+K:Bb
+g/g/f/e/ | d z/ B/ | c/c/B/A/ | G z |
+d g | b/a/ g | a/g/f/e/ | d z |
+d g | b/a/ g | a/g/f/e/ | d z |
+g/g/f/e/ | d z/ B/ | c/c/B/A/ | G z |
+
+
+X:4211
+T: Piros az ostorom nyele nem sárga
+M:4/4
+L:1/4
+K: G
+(3:2:2 B/A (3:2:2 B/c (3:2:2 d/B (3:2:2 G/D | B A G/z/ z |
+(3:2:2 fe/ (3:2:2 f/g (3:2:2 a/f (3:2:2 d/A | fed/z/ z |
+(3:2:2 d/(g g) d B | c/B/c/g/ | f e d  z |
+(3:2:2 B/A B/c/ (3:2:2 d/B G/D/ | B A G/z/ z |
+
+X:5041
+T: Most jöttem gyuláról
+M:4/4
+L:1/4
+K: F
+BBcF | G2 G/z/ z |
+gf f<c | d2 d/z/ z |
+f<g af | g/g/d/d/ c f/z/|
+B<B c F | G2 G/z/ z |
+
+X:5042
+T: Harangoznak délre
+Q: 1/4=128
+M:4/4
+L:1/4
+K: F
+B<B AF | G2 g2 | 
+gfec | d2 d/z/ z |
+fg (3:2:2 af2 | g<d (3:2:2 cf2 |
+B/B/B A F | G2 G/z/ z |
+
+X:5043
+Q: 1/4=86
+T: Most jövök gyuláról
+M:4/4
+L:1/4
+K: F
+B>B AF | G2 g2 |
+f<f e<c | d2 d/z/ z |
+fg (3:2:2 gf2 | g/_e/ (3:2:2 d/c c F |
+B<B AF | G2 G z |
+
+
+X:5320
+Q: 1/4=120
+T: Csütörtökön este
+M:4/4
+L:1/4
+K: Bb
+d> e d<c | G2 G z |
+d g a g | d2 d z |
+d g a<g | d g f z | 
+g f/e/ d<c | GAB |
+c | d>e d<c | G2 G z | 
+
+
+X:5530
+Q: 1/4=95
+T: Én felettem hiába dörög az ég
+M:4/4
+L:1/8
+K:C
+GGDD BBcA | B G3 G2 z2 |
+ddee dBdc | B A3 A2 z2 |
+ddee dB d2 | GGAA BG D2 |
+GGDD BBcA | B G3 G2 z2 |
+
+X:5830
+Q: 1/4=100
+T: Most jövök a hortobágyi pusztáról
+M:4/4
+L:1/8
+K:G
+GAA<G cde>c | A G3 G2 z2 |
+d<ee<d g<ab<g | f d3 d2 z |
+d<ee<d g<ab<g | e>dc<B A2 z2|
+GAA<G cde>c | A G3 G2 z2 |
