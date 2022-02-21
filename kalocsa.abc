@@ -1,0 +1,168 @@
+I:abc-charset utf-8
+B: Romsics Imre: Nem messze van ide Kalocsa
+
+X:86
+T: Alig várom, hogy a nap le nyugodjon
+M:4/4
+L:1/4
+K:Eb
+E D C G | G/F/C/E/ | D<C C z |
+G/G/E/E/ F/F/G/A/ | B<G G z |
+G/G/E/E/ F/F/G/A/ | B<G D z |
+E D C G | G/F/C/E/ | D<C C z |
+
+X:88
+T: Állok, állok a tó partján egyedül
+M:4/4
+L:1/4
+K:C
+G>^F G A | G<E C D | E<C C z |
+c c G c | B A F < A | B<G G z |
+c c G < c | B A F A | G E C z |
+G>^F G A | G<E C D | E<C  C z |
+
+
+X:90
+T: Alma a fa alatt, nyári, piros alma
+M:4/4
+L:1/4
+K:Bb
+c B/G/ c/B/ G | E F G<F | C2 C z |
+e e d<c | B c d/c/d/c/ | G2 G z |
+e e d<c | B c d/c/d/c/ | G2 B z |
+c B/G/ c/B/ G | E F G<F | C2 C z |
+
+X:180
+T: Esik az eső, nincsen sár
+M:4/4
+L:1/4
+K:Eb
+E C/D/ E<D | C G, C z |
+G>E G<F | E B, E z |
+G B A G | C/C/G/G/ G<F |
+E C D/D/B,/B,/ | C<C C z |
+
+X:200
+T: Fáj a fának, ha a fejsze levágja
+M:1/4
+L:1/4
+K:Eb
+C/D/E/D/ C/D/E/F/ | GFE z |
+C/C/E/E/ F/F/G/G/ | F<G G z |
+c/c/B/A/ G/F/B/G/ | E/D/C/D/ E z |
+G/E/D/C/ G/G/G/E/ | D<C C z |
+
+X:208
+T: Fekete kendőt kötök a fejemre
+M:4/4
+L:1/4
+K:Bb
+C/E/C/E/ G/F/C/E/ | D<C C z |
+E/E/G/G/ B/B/c/c/ | B<G G z |
+E/E/G/G/ B/B/c/c/ | B<G F z |
+C/E/C/E/ G/F/C/E/ | D<C C z |
+
+X:241
+T: Házunk előtt, kedves édesanyám
+M:1/4
+L:1/4
+K:Bb
+ccB<G |c/c/F/G/ F<E | G/G/F/E/ | D<C C z |
+c<cBG |c/c/F/G/ F<E | G/G/F/E/ | D<C C z |
+e e d c | B<B G<E | c/e/d/c/ G z |
+ccBG |c/c/F/G/ F<E | G/G/F/E/ | D<C C z |
+
+
+X:249
+T: Homokmégybe két úton köl bejárni
+M:1/4
+L:1/4
+K:Eb
+G<A GF | G E CD | E<C C z |
+G<c G<c | B<E G B | c G G  z|
+G c G c | B E G<B | c G F z |
+G<A GF | G E CD | E<C C z |
+
+X:289
+T:Két ablak közt besütött a holdvilág
+M:4/4
+L:1/4
+K:F
+G/G/F/F/ G/A/F/E/ | D<C C z |
+AGEC | G/G/A/B/ | A<G G z |
+AGEC | G/G/A/B/ |A<G F z |
+G/G/F/F/ G/A/F/E/ | D<C C z |
+
+X:299
+T:Kis kút, kerekes kút
+M:1/4
+L:1/4
+K:C
+c c d/c/B/A/ | G<E F D | C2 C z |
+e<e d/c/B/c/ | A<F A c | G2 G z |
+e e d/c/B/c/ | A F A<c | G2 E z |
+c/c/B/c/ d/c/B/A/ | G E F D | C2 C z |
+
+X:311
+T: Kukorékol a kis kakas
+M:4/4
+L:1/4
+K:C
+C<E G c | B<A F<D | G<F E<D | C2 C z |
+CE G<c |  B>A F D | B>A GF | C2 C z |
+c c/c/ c c/c/ | c e d<c | dc B/A/^G/A/ F2 D z |
+C E G c/c/ | B/B/A/A/ F<D | G>F E<D | C2 C z |
+
+
+X:316
+T:Lassan kocsis, hogy a kocsi ne rázzon
+M:4/4
+L:1/4
+K:Bb
+C/D/E/E/ D/E/F/D/ | E<C C z |
+G/A/B/B/ A/B/c/A/ | B<G G z |
+G/A/B/B/ A/B/c/G/ | c d/c/ G/F/ G |
+C/D/E/E/ D/E/F/D/ | E<C C z |
+
+
+X:495
+T: Zöld erőbe de magos, zöld erdőbe da magos...
+M:4/4
+L:1/8
+K:Eb
+CCEE DC G,2 | EEGG FGFE | D C3 C2 z2 |
+CCEE DC G,2 | EEGG FGFE | D C3 C2 z2 |
+G2 E2 G2 B2 | AAGG FFCC | F2 (EF) G2 z2 |
+CCEE DC G,2 | EEGG FGFE | D C3 C2 z2 |
+
+X:574
+T: Ennek a kislánynak nincs babája
+M:4/4
+L:1/4
+K:C
+C/C/C/C/ C G, | A,/B,/ C G, z |
+E/E/E/E/ E C |D/E/ F D z |
+G/G/A/A/ G/E/ C | C/C/D/C/ B,/A,/ G, |
+F/E/ D G>E | F/E/ D C z |
+
+X:581
+T: Hajazik a kukorica levele
+L:1/4
+M:4/4
+K:Eb
+G/G/A/G/ F/F/G/E/ | D<C  C z |
+c G c c | B/=A/G/A/ | B G G z |
+c G c c | B/=A/G/A/ | G E D z |
+G/G/A/G/ F/F/G/E/ | D<C  C z |
+
+X:744
+T: Möginnám a, möginnám a, möginnám a vörösbort a pohárbú
+M:4/4
+L:1/8
+K:Eb
+CEDC FAGF | GcGE GFED | D C3 C2 z2 |
+CEDC FAGF | GcGE GFED | D C3 C2 z2 |
+e2 e2  d c3 | B2 G2 B2 z2 | AAFF c c3 | G2 E2 D2 z2 |
+CEDC FAGF | GcGE GFED | D C3 C2 z2 |
+
+

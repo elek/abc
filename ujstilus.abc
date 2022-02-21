@@ -1,7 +1,17 @@
 I:abc-charset utf-8
 B: Bartók Béla, A magyar népdal.
 
-X:950
+X:89
+T: Vasszilvágyi Gyöngy utcában
+M: 3/4
+L:1/4
+K:Bb
+G/G/ c e | d/c/ G G |
+d/d/ g b | a/g/ d d |
+d/d/ g b | a/g/d/=e/ |
+f/d/ B c | d/c/ G G |
+
+X:144
 T: Ilavában most faragják azt a fát
 Q: 1/4=80
 L: 1/4
@@ -11,7 +21,7 @@ B/c/ d d | c/B/A/G/ | B/d/ A z |
 B/c/ d d | c/B/A/G/ | B/d/ A z |
 d/B/ G D | (3:2:2 GG/ G/c/ | (3:2:2 B/A G z |
 
-X:961
+X:147
 T: A Savanyú tizenhat szél gatyája
 Q: 1/4=100
 L:1/4
@@ -22,7 +32,7 @@ d/d/ c g | f/d/ c d | B/A/ G z |
 G/A/ B c | d/d/G/c/ | B/A/ G z |
 
 
-X:1010
+X:154
 T: Végig megyek a budai Lánchídon
 L:1/4
 Q:1/4=116
@@ -32,7 +42,18 @@ d/d/ g g | a/f/e/f/ | g/e/ d z |
 d/d/ g g | a/f/e/f/ | g/<e/ d z |
 d/<e/ d g | f/e/ (3:2:2 d A/ | c/<B/ G z |
 
-X:2160
+X:191
+T: Jaj annak a fának, kit a fejsze levág
+M:2/4
+L:1/4
+K:G
+G/G/A/B/ | c B | A/G/B/A/ | G G |
+d/d/e/f/ | g f | e/d/f/e/ | d d |
+g/f/e/f/ | g d | e/c/c/e/ | d A |
+G/G/A/B/ | c B | A/G/B/A/ | G G |
+
+
+X:339
 T: A mi házunk felett csak egy csillag van
 Q: 1/4=104
 M:2/4
@@ -43,7 +64,7 @@ b/b/ a | g/g/ d | g/<g/f/e/ | d z |
 b/b/a | g/g/ d | g/>g/f/e/ | d z |
 g/g/ d | f/<d/ B | d/<c/B/A/ | G z |
 
-X:2170
+X:340
 T: Szerelmes vagyok, de jól tudom, kibe
 Q: 1/4=116
 M:4/4
@@ -55,7 +76,7 @@ d g | b/a/ g | a/g/f/e/ | d z |
 g/g/f/e/ | d z/ B/ | c/c/B/A/ | G z |
 
 
-X:4211
+X:648
 T: Piros az ostorom nyele nem sárga
 M:4/4
 L:1/4
@@ -65,7 +86,7 @@ K: G
 (3:2:2 d/(g g) d B | c/B/c/g/ | f e d  z |
 (3:2:2 B/A B/c/ (3:2:2 d/B G/D/ | B A G/z/ z |
 
-X:5041
+X:793
 T: Most jöttem gyuláról
 M:4/4
 L:1/4
@@ -75,7 +96,7 @@ gf f<c | d2 d/z/ z |
 f<g af | g/g/d/d/ c f/z/|
 B<B c F | G2 G/z/ z |
 
-X:5042
+X:794
 T: Harangoznak délre
 Q: 1/4=128
 M:4/4
@@ -86,7 +107,7 @@ gfec | d2 d/z/ z |
 fg (3:2:2 af2 | g<d (3:2:2 cf2 |
 B/B/B A F | G2 G/z/ z |
 
-X:5043
+X:795
 Q: 1/4=86
 T: Most jövök gyuláról
 M:4/4
@@ -98,7 +119,7 @@ fg (3:2:2 gf2 | g/_e/ (3:2:2 d/c c F |
 B<B AF | G2 G z |
 
 
-X:5320
+X:839
 Q: 1/4=120
 T: Csütörtökön este
 M:4/4
@@ -110,8 +131,18 @@ d g a<g | d g f z |
 g f/e/ d<c | GAB |
 c | d>e d<c | G2 G z | 
 
+X:849
+T: Jaj de szépen harangoznak
+Q:1/4=112
+M:1/4
+L:1/4
+K:G
+d2 c2 | B c d<A | G2 G z |
+a2 g2 | f g a<e | d2 d z |
+d e f<g | d B d G |
+d2 c2 | e e (3:2:2 d A2 | G2 G z |
 
-X:5530
+X:873
 Q: 1/4=95
 T: Én felettem hiába dörög az ég
 M:4/4
@@ -122,7 +153,28 @@ ddee dBdc | B A3 A2 z2 |
 ddee dB d2 | GGAA BG D2 |
 GGDD BBcA | B G3 G2 z2 |
 
-X:5830
+X:856
+T: Eresz alá fészkel a fecske
+Q: 1/4=108
+L:1/4
+M:4/4
+K:G
+D/G/F/G/ A>B | A<G G z |
+e/d/c/B/ d>c | B<A A z |
+e/d/c/B/ d G | D/F/A/c/ | B<A d z |
+D/G/F/G/ A>B | A<G G z |
+
+X:857
+T: Cserebogár ne ödd meg a csörösznyét
+L:1/4
+M:4/4
+K:G
+D/G/F/G/ B/A/E/F/ | A<G G z |
+B/d/^c/d/ e/B/d/=c/ | B<A A z |
+B/d/^c/d/ e/B/d/=c/ | B A/G/ F/E/ D/ z/ |
+D/G/F/G/ B/A/E/F/ | A<G G z |
+
+X:915
 Q: 1/4=100
 T: Most jövök a hortobágyi pusztáról
 M:4/4
@@ -132,3 +184,103 @@ GAA<G cde>c | A G3 G2 z2 |
 d<ee<d g<ab<g | f d3 d2 z |
 d<ee<d g<ab<g | e>dc<B A2 z2|
 GAA<G cde>c | A G3 G2 z2 |
+
+X:927
+Q:1/4 = 84
+T: Úgy szeretlek, mint a mézes kalácsot
+M:4/4
+L:1/8
+K:G
+G>Gcc BGAA | B G3 G2 z |
+ddgg fdee | f d3 d2 z | 
+ddgg fd e2 | ccee dB d z |
+G>Gcc B<GAA | B G3 G2 z |
+
+X:941
+T: Édesanyám, pémz van az én zsebembe,
+M:1/4
+L:1/8
+K:Bb
+GGcd eced | c G3 G2 z2 |
+ddga bgba | g d3 d2 z2 |
+ddga bgba | g d3 c2 z2 |
+GGcd eced | c G3 G2 z2 |
+
+X:1016
+T:Ha meghalok, meghagyom
+Q:1/4=126
+M:4/4
+L:1/4
+K:Bb
+G/G/B/B/ A/A/ D | B/B/c/c/ d/d/c/B/ | A<G G z |
+G/G/B/B/ A/A/ D | B/B/c/c/ d/d/c/B/ | A<G G z |
+dedc | ddBG | ^F<A D z |
+G/G/B/B/ A/A/ D | B/B/c/c/ d/d/c/B/ | A<G G z |
+
+X:1036
+T: Kapitány úr kihozta
+Q:1/4=96
+M:4/4
+L:1/4
+K:G
+G/G/A/A/ B/B/ G | c/c/d/d/ e/d/c/B/ | A<G G z |
+d/d/e/e/ f/f/ d | g/g/a/a/ b/b/g/e/ | f d d z |
+geee | ef a<g | d/e/d/B/ G z | g/g/f/e/ d z |
+G/G/A/A/ B/A/G/G/ | A/B/c/d/ e/d/c/B/ | A<G G z |
+
+
+X:1154
+T: Esik az eső, hull a villám rakásra
+Q:1/4=122
+M:4/4
+L:1/4
+K:F
+d G d/d/ c | B/d/c/B/ | A<G G z |
+d<d g<g | f/a/g/^f/ | g<d d z |
+d d g g | f/a/g/^f/ | g<d c z |
+d G d/d/ c | B/d/c/B/ | A<G G z |
+
+X:1155
+T: Nem vagyok én szép, csak a szemem fekete.
+Q:1/4=84
+M:4/4
+L:1/4
+K:F
+d G g/g/ f | d/d/c/B/ | A<G G z |
+d d g g | a/a/g/f/ | e<d d z |
+d d g g | a/a/g/f/ | e<d c z |
+d G g/g/f/f/ | d/d/c/B/ | A<G G z |
+
+X:1156
+T: Nem idevaló születésű vagyok én
+Q:1/4=112
+M:4/4
+L:1/4
+K:F
+d G d/d/ c | d/d/c/B/ | A<G G z |
+d d g g | f/e/d/f/ | e<d d z |
+d d g g | f/e/d/f/ | e/e/d/d/ c z |
+d G d/d/c | d/d/c/B/ | A<G G z |
+
+
+
+X:1589
+T:Erdő mellett, de magos
+M:4/4
+L:1/4
+K:F
+G/G/B/B/ A/A/ D | G/G/B/B/ d/d/c/B/ | A<G G z | 
+G/G/B/B/ A/A/ D | G/G/B/B/ d/d/c/B/ | A<G G z | 
+d c B F | d c B F | B c d2 |
+G/G/B/B/ A/A/ D | G/G/B/B/ d/d/c/B/ | A<G G z | 
+
+X:1801
+T:kocsmárosné, szép csárdásné
+Q:108
+M:4/4
+L:1/4
+K:Bb
+(3:2:2 d G2 (3:2:2 A B2 | (3:2:2 d G2 (3:2:2 A B2 | A>B A<D | G<G G/ z/ z |
+(3:2:2 d G2 (3:2:2 A B2 | (3:2:2 d G2 (3:2:2 A B2 | A>B A D | G<G G/ z/ z |
+(3:2:2 c c2 (3:2:2 c F2 | (3:2:2 f e2 d<c | d<d f>z |
+(3:2:2 gf2 (3:2:2 e d2 | (3:2:2 g d2 (3:2:2 B G2 | A<B (3:2:2 A D2 | G<G G z | 

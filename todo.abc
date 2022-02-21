@@ -190,7 +190,7 @@ W: Vágássa rá, hogy a fia betyár volt.
 %%https://library.hungaricana.hu/hu/view/ZTI_AP_07601-07620/?pg=444&layout=s
 
 X:13
-T: Putnokom már kihajtották a nyájat
+T: Putnokon már kihajtották a nyájat
 Q: 1/4=80
 K:Bb
 M:4/8
@@ -217,9 +217,9 @@ w: Tüs-ke-bo-kor, e-reszd el a ga-tyá-mot,
 G/A/ B c | d/d/G/c/ | B/A/ G z |
 w: Ha ú-ré vagy, ha pa-rasz-té, le-vág-lok. 
 W:s A Savanyu nem uri családból való,
-W:Nem kell neki selyem bársonytakaró,
+W: Nem kell neki selyem bársonytakaró,
 W: Nem kell neki az éddesanyja dunyhájó,
-W: Beéri ja tinehat szé' gatyájó.
+W: Beéri ja tizenhat szé' gatyájó.
 W:
 W:A Savanyu este jevedd vacsorát,
 W: Kilenc zsandár benyitotta ajtaját.
@@ -249,3 +249,66 @@ W: Mit ér a rózsa, ha nincsne levele.
 W: Mit ér az a lány, ha nincs szeretője!
 W: Mondd meg, ha szeretsz, még enyém lehetsz,
 W: Pártfogód leszek, tudom, megemlegetsz.
+
+X:16
+T: Ágas-bogas a diófa teteje
+M:4/4
+L:1/4
+K:F
+D/D/ (3:2:2 GG2 B/B/ (3:2:2 dd2 ^c B3/2 A2 |
+c/c/ (3:2:2 cc2 B/B/d/d A A3/2 A2 |
+d>G c/c3/2 B/B/ (3:2:2dd2 ^c/B/ G2 |
+d/d/ (3:2:2 DD2 D/D/ (3:2:2 B2c A G3/2 G2 | 
+W:Ágas-bogas a diófa teteje,
+W:Csak egy legényt neveltek a kedvemre.
+W:Azt az egyet nem adnám a világért,
+W:Az anyjának a mennybéli jussáért!
+W:
+W:Az anyjának nem nagy mennyben jussa,
+W:A fiának olyan édes a csókja!
+W:Olyan édes, el sem tudnám feledni, 
+W:Csak még annál jobban tudnám szeretni! 
+
+X: 17
+T: Dombon van a kisgyűrüsi Szent János
+S: https://zti.hungaricana.hu/en/9735/
+M:4/4
+L:1/4
+Q:1/4=102
+K:Bb
+G/A/ (3:2:2 G/D G/A/B/c/ | d B A z |
+G/A/ (3:2:2 G/D G/A/B/c/ | d B A z |
+d>B (3:2:2 df2 | e/d/c/d/ B/A/ G |
+(3:2:2 G/D G/A/ B/d/c/B3/4 | A<G G z 
+W:Dombon van a kisgyűrüsi Szent János
+W:Dombon lakik kisgyűrüsi plébános
+W:Két sor ablak, emeletes a háza
+W:De sok kislány esküdni jár hozzája
+
+X:18
+T:Erre alá dörög az ég villámlik
+L:1/4
+K:Bb
+G/>^F/G/A/ B/<A/B/c/ | d B A z |
+G/<^F/G/A/ B/<A/B/c/ | d < B A z |
+(3:2:2 d d2 B d | f/e/d/c/ d/B/ G |
+G/>D/G/A/ B/B/c/A/ | B < G G z |
+W: Erre alá dörög az ég villámlik
+W: a dombai csárádba be világít
+W: ég a csárda, nincsen aki eloltsa
+W: Fáj a szívem nincs ki megvígasztalja
+W:
+W: Erre alá dörög az ég villámlik
+W: Fáj a szívem de kívülről nem látszik
+W: Fáj a szivem, de kivülről nem látszik
+W: Vad rózsafa halaványat virágzik
+W:
+W: Erre alá dörög az ég villámlik
+W: Szalajd kislány selyem szokynád megázik
+W: Szalajd kislány selyem szokynád megázik
+W: Piros arcod halaványat virágzik
+W:
+W: Már minálunk új divatot most kezdnek
+W:A legények házasodni nem mernek
+W: Mert mind olyan a mostani menyecske
+W: Szép az ura de még többet szeretne
