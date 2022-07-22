@@ -1,16 +1,16 @@
 I:abc-charset utf-8
-B: Mezőségi daloskönyv, Válaszút, 2019
+B:Mezőségi daloskönyv, Válaszút, 2019
 
 X:3
-T: Fordulj kedves lovam...
-O: Ördöngősfüzes, Mezei Ferenc és zenekara, 1967
+T:Fordulj kedves lovam...
+O:Ördöngősfüzes, Mezei Ferenc és zenekara, 1967
 M:10/8
 L:1/4
 K:F
-c/d/ d/d dd3/2 | d/d/ fd/ d c3/2 | 
-f/f/ g/g  f c3/2 | c/c/ f c/ d B3/2 | 
-d/c/ B G/ A F3/2 | F/G/ GG/ B d3/2 | 
-d/c/ B G/ F c3/2 | d/c/ G/G  G G3/2 | 
+c/d/ d/d dd3/2 | d/d/ fd/ d c3/2 |
+f/f/ g/g  f c3/2 | c/c/ f c/ d B3/2 |
+d/c/ B G/ A F3/2 | F/G/ GG/ B d3/2 |
+d/c/ B G/ F c3/2 | d/c/ G/G  G G3/2 |
 
 X:4
 T: Ablakomba besütott a holdvilág...
@@ -18,10 +18,10 @@ O: Válaszút, Kallós Györgyné - Szakács Juliska "Minácsi", 1962
 M:10/8
 L:1/4
 K:F
-(3:2:2 BG/ G/G (3:2:2 cB/ B/B | c B3/2 A z3/2 | 
-G/=B/ d/d e/d/ d _B/ | A/(A/ A3/2) A z3/2 | 
-G/=B/ d/d e/>d/ d d/ | ^c B3/2 =c z3/2 | 
-B/>G/ G/G (3:2:2 cB/ A ^F/ | G/(G/G3/2) G z3/2 | 
+(3:2:2 BG/ G/G (3:2:2 cB/ B/B | c B3/2 A z3/2 |
+G/=B/ d/d e/d/ d _B/ | A/(A/ A3/2) A z3/2 |
+G/=B/ d/d e/>d/ d d/ | ^c B3/2 =c z3/2 |
+B/>G/ G/G (3:2:2 cB/ A ^F/ | G/(G/G3/2) G z3/2 |
 
 X:5
 T:Kék ibolyát ültettem a pohárba
@@ -33,18 +33,16 @@ B/B/ d/d e/d/ dc/ | B/(A/A3/2) A z3/2 |
 B/B/ d/d e d/d | B/d/ G/A B/A/ G z/ |
 D/D/ G/A B/B/ B/A | A/(G/G3/2) G z3/2 |
 
-
 X:21
 T: Válasz úti csárdába
 O: Ördöngősfüzes, Hideg Istvánné - Lakatos Anna "Drága" (73), 2008
 M:2/4
 L:1/4
 K:Bb
-G/B/ A/G/ | d g | d z | 
-g/g/ a/g/ | f f/g/ | 
-a/g/ f/g/ | d B/c/ | 
-d/e/ d/c/ | B A | G z | 
-
+G/B/ A/G/ | d g | d z |
+g/g/ a/g/ | f f/g/ |
+a/g/ f/g/ | d B/c/ |
+d/e/ d/c/ | B A | G z |
 
 X:25
 T: Szégyen lenne, hogy ha én azt nem tudnám...
@@ -52,10 +50,10 @@ O: Válaszút, Kallós Györgyné - Szakács Juliska "Minácsi", 1962
 M:4/4
 L:1/4
 K:Bb
-B/A/G/B/ d/c/d/B/ | A<G F z | 
-d/d/B/d/ f/f/g/g/ | f<d d z | 
-d/d/B/d/ f/f/g/g/ | f<d G z | 
-B/A/G/B/ d/^c/d/B/ | A<G G z | 
+B/A/G/B/ d/c/d/B/ | A<G F z |
+d/d/B/d/ f/f/g/g/ | f<d d z |
+d/d/B/d/ f/f/g/g/ | f<d G z |
+B/A/G/B/ d/^c/d/B/ | A<G G z |
 
 X:31
 T: Megy a gőzös a Pregyálon kifelé
@@ -64,20 +62,19 @@ L:1/4
 M:4/4
 K:Bb
 G G ^F G | c B/c/ (d d/)B/ | A<G G z |
-d (d/f/) e d | c c A<F | B B B z |    
+d (d/f/) e d | c c A<F | B B B z |
 d (d/f/) e d | G G A B | c<c (d d/)B/ | A<G D z |
 G<G ^F<G | c (B/c/) (d d/)B/ | A<G G z |
-
 
 X:43
 T:Csavargónak, tekergőnek
 K: F
 M: 4/4
 L: 1/4
-g/g/a/g/ d/e/f/g/ | a/g/f/e/ d<c | G2 G z | 
-g/g/a/g/ d/e/f/g/ | a/g/f/e/ d c | G2 G z | 
-c d e/d/c/G/ | f (f/g/) a/a/f/a/ | g2 d z | 
-g/g/a/g/ d/e/f/g/ | a/g/f/e/ d<c | G2 G z | 
+g/g/a/g/ d/e/f/g/ | a/g/f/e/ d<c | G2 G z |
+g/g/a/g/ d/e/f/g/ | a/g/f/e/ d c | G2 G z |
+c d e/d/c/G/ | f (f/g/) a/a/f/a/ | g2 d z |
+g/g/a/g/ d/e/f/g/ | a/g/f/e/ d<c | G2 G z |
 
 X:48
 T:Zavaros a Tisza...
@@ -85,10 +82,10 @@ O: Válaszút
 M:4/4
 L:1/4
 K:Bb
-B<B c<c | G2 F z | 
-d<B d g | d2 d z | 
-f f g g | f<d Bc | 
-d g d<c | G2 G z | 
+B<B c<c | G2 F z |
+d<B d g | d2 d z |
+f f g g | f<d Bc |
+d g d<c | G2 G z |
 
 X:58
 T: Sír az egyik szemem...
@@ -97,10 +94,10 @@ Q: "Guisto"
 M:10/8
 L:1/4
 K:Bb
-f/f/ f d/ d/(d/d3/2) | e/e/ d/d c B3/2 | 
-f/f/ fd/ c/(d/d3/2) | e/e/ d/d c B3/2 | 
-F/G/ G/ G _A F3/2 | B/B/ c/ e c B3/2 | 
-F/F/ B/ B c F3/2 | F/G/ G/ G  G G3/2 | 
+f/f/ f d/ d/(d/d3/2) | e/e/ d/d c B3/2 |
+f/f/ fd/ c/(d/d3/2) | e/e/ d/d c B3/2 |
+F/G/ G/ G _A F3/2 | B/B/ c/ e c B3/2 |
+F/F/ B/ B c F3/2 | F/G/ G/ G  G G3/2 |
 
 X:61
 T: Nekem is volt édesanyám...
@@ -108,10 +105,10 @@ O: Magyarszovát, Maneszes Márton "Kántor" (53), 1991
 M:4/4
 L:1/8
 K:Bb
-ggff ggdd | (ff) cc B2 z2 | 
-ggff ggdd | ffcc B2 z2 | 
-Bcdd dcBF | Bcdd dc B2 | 
-FG Bc dB cc | G G3 G2 z2 | 
+ggff ggdd | (ff) cc B2 z2 |
+ggff ggdd | ffcc B2 z2 |
+Bcdd dcBF | Bcdd dc B2 |
+FG Bc dB cc | G G3 G2 z2 |
 
 X:66
 T: Azt gondolod régi babám...
@@ -119,10 +116,10 @@ O: Magyarszovát, Kádár Sándorné - Pap Erzsébet (47), Maneszes "Láli" Józ
 M:4/4
 L:1/4
 K:Bb
-g/g/f/f/ g/g/a/g/ | d c G z | 
-g/g/f/f/ g/g/a/g/ | d c G z | 
-F/A/F/F/ A/A/c/c/ | f/f/f/e/ d/c/ B | 
-A/A/F/F/ A/A/c/c/ | G<G G z | 
+g/g/f/f/ g/g/a/g/ | d c G z |
+g/g/f/f/ g/g/a/g/ | d c G z |
+F/A/F/F/ A/A/c/c/ | f/f/f/e/ d/c/ B |
+A/A/F/F/ A/A/c/c/ | G<G G z |
 
 X:73
 T: Barázdában szépen szól a pacsirta...
@@ -130,9 +127,9 @@ O: Magyarpalatka, Papp Anna (62), 1963
 M:10/8
 L:1/4
 K:F
-g/f/ d/d d/c/ c/B | d d3/2 (f f) z/ | 
-g/f/ d/d d/c/ c/B | d c3/2 d z3/2 | 
-d/d/ dB/ c/B/ G/G | d c3/2 B z3/2 | 
+g/f/ d/d d/c/ c/B | d d3/2 (f f) z/ |
+g/f/ d/d d/c/ c/B | d c3/2 d z3/2 |
+d/d/ dB/ c/B/ G/G | d c3/2 B z3/2 |
 f/d/ dd/ B/d/ cB/ | A/(G/G3/2) G z3/2 |
 
 X:115
@@ -143,7 +140,7 @@ L: 1/4
 K: C
 (3:2:2 g g2 (3:2:2 f f2 | (3:2:2 e e2 d/ d |
 f>e  e<g | c>c G/ G z/ |
-d>c c<_B | A>G G/ F z/ | 
+d>c c<_B | A>G G/ F z/ |
 G A _B > c | G<G G/G/ z |
 
 X:121
@@ -165,3 +162,85 @@ B<d d>c | B<A G z |
 B<d d>c | B<A G z |
 G/G/ B/B/ d/A/ A | A/E/E/E/ F/D/ D |
 G/G/B/B/ d/A/A/A/ | B<G G z |
+
+X:126
+T:Kaszárnya, kaszárnya
+M:4/4
+L:1/4
+K:B
+Bdcd | B2 G z |
+c c f/g/d/c/ | d2 d z |
+gfg f/f/ | d/c/d/d/ c B |
+d f/g/ d c | G2 G z |
+
+X:127
+T:Kolozsvári kaszárnya
+M:4/4
+L:1/4
+K:B
+G<G c>B | A<G G z |
+d<d g>f | =e<d d z |
+d<d g a | ag f2 |
+g/g/d/d/ f/e/d/c/ |
+d<G c>B | A<G G z |
+
+X:128
+T:Most jöttem gyuláról
+M:4/4
+L:1/4
+K:B
+BB AF | G2 g2 |
+ff =ec | d2 d z |
+fggf | g/e/ d/c/ (3:2:2 c F2 |
+B<B A<F | G2 G2 |
+
+X:129
+T:Megy a gőzős
+M:4/4
+L:1/4
+K:B
+c (B/c/) d/c/ B/F/ | G2 G z |
+g f/g/ a/g/ f/c/ | d2 d z |
+g f/g/ a/g/ f/e/ | d B/c/ |
+d c c/B/ A/F/ | G2 G z |
+
+X:130
+T:Megy a vonat Bukarestbe
+M:4/4
+L:1/4
+K:B
+(d f/)e/ d/c/B/A/ | G2 G z |
+g g f/b/a/g/ | d2 d z |
+g g f/b/a/g/ | (d/c/) B/c/ |
+(d f/)e/ d/c/B/A/ | G2 G z |
+
+X:131
+T:Édesanyám elaludni nem todok
+M:4/4
+L:1/4
+K:C
+G/G/A/G/ c/d/ e/c/ | A<G d z |
+d/e/e/d/ g/a/ b/g/ | e<d d z |
+d/e/e/d/ g/a/ b/g/ | e/e/ g/e/ d/c/ A|
+G/G/A/G/ c/d/ e/c/ | A<G G z |
+
+X:132
+T:Erdőben, erdőben, szép kerek erdőben
+M:4/4
+L:1/4
+K:B
+G/G/e/e/ d c | f B A<F | G2 G z | 
+d/d/ g/g/ g<g | gf=e<c | d2 d z | 
+dg g<g | g f f/e/ d/c/ | B>c d2 | 
+G/G/e/e/ d c | f B A<F | G2 G z 
+
+X:133
+T:Lassan forog sej-haj, a gőzkocsi kereke
+M:4/4
+L:1/4
+K:G
+G/A/ B/G/ E D | G/A/ B/A/ | A<G G z | 
+e<d e<d | c/B/ A/G/ | (3:2:2 B (A/A) A z |
+(3:2:2 e (d/d) e<d | c B A d/d/ | e/d/ B/A/ G z | 
+A B/G/ E D | G/A/ B/A/ | A<G G z | 
+
