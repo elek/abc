@@ -13,8 +13,8 @@ d/c/ B G/ A F3/2 | F/G/ GG/ B d3/2 |
 d/c/ B G/ F c3/2 | d/c/ G/G  G G3/2 |
 
 X:4
-T: Ablakomba besütott a holdvilág...
-O: Válaszút, Kallós Györgyné - Szakács Juliska "Minácsi", 1962
+T:Ablakomba besütott a holdvilág...
+O:Válaszút, Kallós Györgyné - Szakács Juliska "Minácsi", 1962
 M:10/8
 L:1/4
 K:F
@@ -68,9 +68,9 @@ G<G ^F<G | c (B/c/) (d d/)B/ | A<G G z |
 
 X:43
 T:Csavargónak, tekergőnek
-K: F
-M: 4/4
-L: 1/4
+K:F
+M:4/4
+L:1/4
 g/g/a/g/ d/e/f/g/ | a/g/f/e/ d<c | G2 G z |
 g/g/a/g/ d/e/f/g/ | a/g/f/e/ d c | G2 G z |
 c d e/d/c/G/ | f (f/g/) a/a/f/a/ | g2 d z |
@@ -167,7 +167,7 @@ X:126
 T:Kaszárnya, kaszárnya
 M:4/4
 L:1/4
-K:B
+K:Bb
 Bdcd | B2 G z |
 c c f/g/d/c/ | d2 d z |
 gfg f/f/ | d/c/d/d/ c B |
@@ -177,7 +177,7 @@ X:127
 T:Kolozsvári kaszárnya
 M:4/4
 L:1/4
-K:B
+K:Bb
 G<G c>B | A<G G z |
 d<d g>f | =e<d d z |
 d<d g a | ag f2 |
@@ -188,7 +188,7 @@ X:128
 T:Most jöttem gyuláról
 M:4/4
 L:1/4
-K:B
+K:Bb
 BB AF | G2 g2 |
 ff =ec | d2 d z |
 fggf | g/e/ d/c/ (3:2:2 c F2 |
@@ -208,7 +208,7 @@ X:130
 T:Megy a vonat Bukarestbe
 M:4/4
 L:1/4
-K:B
+K:Bb
 (d f/)e/ d/c/B/A/ | G2 G z |
 g g f/b/a/g/ | d2 d z |
 g g f/b/a/g/ | (d/c/) B/c/ |
@@ -228,19 +228,137 @@ X:132
 T:Erdőben, erdőben, szép kerek erdőben
 M:4/4
 L:1/4
-K:B
-G/G/e/e/ d c | f B A<F | G2 G z | 
-d/d/ g/g/ g<g | gf=e<c | d2 d z | 
-dg g<g | g f f/e/ d/c/ | B>c d2 | 
-G/G/e/e/ d c | f B A<F | G2 G z 
+K:Bb
+G/G/e/e/ d c | f B A<F | G2 G z |
+d/d/ g/g/ g<g | gf=e<c | d2 d z |
+dg g<g | g f f/e/ d/c/ | B>c d2 |
+G/G/e/e/ d c | f B A<F | G2 G z
 
 X:133
 T:Lassan forog sej-haj, a gőzkocsi kereke
 M:4/4
 L:1/4
 K:G
-G/A/ B/G/ E D | G/A/ B/A/ | A<G G z | 
+G/A/ B/G/ E D | G/A/ B/A/ | A<G G z |
 e<d e<d | c/B/ A/G/ | (3:2:2 B (A/A) A z |
-(3:2:2 e (d/d) e<d | c B A d/d/ | e/d/ B/A/ G z | 
-A B/G/ E D | G/A/ B/A/ | A<G G z | 
+(3:2:2 e (d/d) e<d | c B A d/d/ | e/d/ B/A/ G z |
+A B/G/ E D | G/A/ B/A/ | A<G G z |
+
+X:147
+T:Szeretnék szántani
+M:4/4
+L:1/4
+K:Bb
+c<c d2 | e d c>z |
+c<c d2 | e d c<z |
+g>f (g//f//) f3/2 | (3:2:2 fe2 d<c |
+d3/2 (c//=B//) c<_A | G2 G z |
+
+X:76
+T:Édesanyám ha meguntál tartani
+M:10/8
+L:1/4
+K:Bb
+G/G/ G/G c/d/ d<d | e e3/2 (dd/) z |
+f/f/ f/e d/d/ c/ c | d f3/2 (BB/) z |
+c/d/ e/ e e/c/ G/ G | G/G/ B B A/G/ F z/|
+B/B/ c e d/c/ B F/ | G/G/ G3/2 G z/ |
+
+X:75
+T:Édesanyám ha meguntál tartalni
+M:10/8
+L:1/4
+K:Bb
+g/f/ d/ d f/f/ g/ g | a f3/2 c2 z/ |
+g/f/ e/ e B/B/ c/ c | c B3/2 B2 z/ |
+c/B/ A/ G B/B/ c/c | d B3/2 F2 z/ |
+c/B/ A/ G B/d/ c B/ | A/ G2 G z |
+
+X:148
+T:Csikorog a szekér
+M:10/8
+L:1/4
+K:G
+(3:2:3 G/B/(B/B) A/ B/ (c/ c3/2) | e/e/ d/ d e d z/ |
+G/B/ B/ B d/d/ d/ d | d/B/ A/ A B/(G/G) z/ |
+c/c/ B/ B (3:2:2 A A/ d/ d | e/d/ G/ G | A G z/ |
+
+X:149
+T:Szék városi öreg templom harangha
+M:10/8
+L:1/4
+K:Bb
+B/c/ d/ d B/c/ d/ d | G/ B2 F2 z |
+(3:2:2 Bd/ c/c f/f/ f d/ | c/ B2 B/ z2 |
+f d3/2 d B z/ | c/ (B//c//) d/ d d/c/ G z/ |
+(3:2:2 GF/ B/ B d/d/ c F/| (3:2:2 G/ (G G3/2) G z |
+
+X:1
+T:Válasz úti hegyet
+M:10/8
+L:1/4
+K:F
+g/g/ b/b a g3/2 | d/d/ d/ d d c3/2 |
+g/g/ g/b a g3/2 | d/d/ d c/ d c3/2 |
+f/f/ f g/ a g3/2 | b/b/ b g/ a g3/2 |
+f/f/ g/ f c d3/2 | G/G/ G/ G A G3/2 |
+
+X:150
+T:
+M:4/4
+L:1/4
+K:C
+
+X:2
+T:Mikor mentem a faluból kifelé
+M:10/8
+L:1/4
+K:Bb
+g/g/ b/b a/<g/ a//(g//g) d//(d3/4 d3/2) c2 z|
+
+X:7
+T:Nem ver meg az Isten
+M:10/8
+L:1/4
+K:G
+G/>B/ d/ d (3:2:2 e/ e e/ d | (3:2:2 c/c/c/ c3/2 (3:2:2 dB/ A/B3/4 z// |
+G/>B/ d/ d (3:2:2 e/ e e/ d | (3:2:2 B/c/c/ c3/2 (3:2:2 dB/ A/B3/4 z// |
+G/A/ A/A (3:2:2 BA/ A/G | c/c/ c/ c (3:2:2 dB/ AB/ |
+(3:2:2 cA/ A/ A (3:2:2 d/d d/c | (3:2:2 BG/ G/G (3:2:2 AG/ B/G/ z/
+
+X:32
+T:Esik a fergeteg, ázik a köpönyeg
+M:4/4
+L:1/4
+K:F
+G/A/ B A/G/ c | d>B d<c | G2 G z |
+d/_e/ f e/d/ g | a>f a<g | d2 d z |
+g>f e/d/e/f/ | g2 d2 | f g d/c/B/c/ | d2 A2 |
+G/A/ B A/G/ c | d g/g/ d c | G2 G z |
+
+X:151
+T:
+M:4/4
+L:1/4
+K:C
+
+X:33
+T:Hej, anyám, anyám, kedves édesanyám
+M:4/4
+L:1/4
+K:Bb
+G e/e/ d<c | fBAF | G2 G z | 
+dgg(g/a/) | g<f f c | d2 d z |
+dgg(g/a/) | g (f/g/) f/e/d/c/ | (B>c) d z | 
+(G/G/)e/e/ d<c | fBAF | G2 G z | 
+
+X:35
+T:Válaszúti bíró lánya
+M:4/4
+L:1/4
+K:G
+G/G/G/G/ A/B/c/d/ | e/d/ c/B/ | A<G G z |
+d/d/d/d/ e/f/g/a/ | b/a/ g/f/ | e<d d z |
+e/e/e/e/ a/g/f/g/ | d g a/b/a/g/ | (d/d/) e/e/ d z |
+G/G/G/G/ A/B/c/d/ | e/d/ c/B/ | A<G G z |
 

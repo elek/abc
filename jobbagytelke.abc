@@ -183,7 +183,7 @@ dd=cB | =c B A/G/A/B/ | A2 D z |
 A/B/A/G/ F/D/E/F/ | G A B<G | D2 D z |
 
 X:18
-T: Két fekete göndör szőrű lovam vagyon
+T:Két fekete göndör szőrű lovam vagyon
 M:4/4
 L:1/4
 K:D
@@ -331,7 +331,7 @@ L:1/4
 K:F
 A/G/A/F/ D<C | F/G/ A/F/ | G<D D2 |
 dcA<c | dAGc | d<A A2 |
-dc d<c | BAGc | A/G/A/G/ F> G |
+dc d<c | BAGc | A/G/A/G/ F>G |
 A/G/A/F/ D<C | F/G/ A/F/ | G<D D2 |
 
 X:33
@@ -640,28 +640,35 @@ T:Elvesztettem kecskéimet
 M:4/4
 L:1/4
 K:F
-c/d/d/c/ c/d/e/c/ | c/A/A/A/ D D | 
-c/d/e/c/ c/d/d/c/ | c/A/A/G/ D D | 
-A c/B/ A/G/ F | c/B/A/G/ F F | 
-A c/B/ A/G/ F | F/F/E/E/ D D | 
+c/d/d/c/ c/d/e/c/ | c/A/A/A/ D D |
+c/d/e/c/ c/d/d/c/ | c/A/A/G/ D D |
+A c/B/ A/G/ F | c/B/A/G/ F F |
+A c/B/ A/G/ F | F/F/E/E/ D D |
 
 X:64
 T:Kicsi vagyok én
 M:4/4
 L:1/4
 K:F
-c/d/c/B/ A2 | c/d/c/B/ A2 | 
-c/d/d/d/ d/c/B/A/ | G/A/B/A/ G2 | 
-F/G/A/B/ A/A/A/A/ | F/G/F/E/ D2 | 
-F/G/A/B/ A/A/A/A/ | F/G/F/E/ D2 
+c/d/c/B/ A2 | c/d/c/B/ A2 |
+c/d/d/d/ d/c/B/A/ | G/A/B/A/ G2 |
+F/G/A/B/ A/A/A/A/ | F/G/F/E/ D2 |
+F/G/A/B/ A/A/A/A/ | F/G/F/E/ D2
 
 X:65
 T:Kiöntött a Maros vize a partjára
 M:4/4
 L:1/4
 K:D
-A/A/B/c/ d/B/A/G/ | F/A/ E D2 | 
-f/f/e/d/ e d | B/c/ d A2 | 
-f/f/e/d/ e d | B/c/ d A2 | 
-A/A/B/c/ d/B/A/G/ | F/A/ E D2 | 
+A/A/B/c/ d/B/A/G/ | F/A/ E D2 |
+f/f/e/d/ e d | B/c/ d A2 |
+f/f/e/d/ e d | B/c/ d A2 |
+A/A/B/c/ d/B/A/G/ | F/A/ E D2 |
+
+X:66
+T:
+M:4/4
+L:1/4
+K:C
+
 
