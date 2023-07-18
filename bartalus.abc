@@ -1,0 +1,72 @@
+I:abc-charset utf-8
+
+X:1
+T: Eleget könyörgék apámnak, s anyámnak
+M: 4/4
+L: 1/8
+K: B
+G G d e d4 | c4 z4 | 
+d c B A c4 | B4 z4 |
+_A G =A =B c4 | d4 z4 |
+c B d c B4 | A4 z4 |
+
+X:2
+T: Megmondtam apámnak, én édes anyámnak
+M: 4/4
+L:1/4
+K:G
+d>B d<c | B2 B z | 
+e>B d/ (c B/) | A2 A z |
+d>d d/ (c B/) | G2 B2 |
+B>E G<F | E2 E z | 
+
+X:3 
+T: Jaj már minékünk
+L: 1/4
+M: 4/4
+K:B
+D =E ^F G | A3 z |
+A<G c B | A3 z |
+D =E ^F G | A3 z |
+A<G c B | A3 z |
+d>d d<d | c c/ c/ c c | c<d c B | A3 z |
+G>F G F | G/ G/ F G F | G<G F E | D3 z |
+
+X:5 
+T: Jó ló volt a fakó, jó ló is ellette
+M:2/4
+L:1/4
+K:C
+A B | c/B/ A/E/ | A B | c/B/ A | G z |
+F A | A/^G/ =F/D/ | E A | A/^G =F | E z | 
+
+X:6
+T: Madarasi csárda előtt mi történt?
+L:1/8
+M:2/4
+K:C
+E>D E<F | G>C E<D | C<C C z |
+c>A B<c | d>G B<A | G<G G z |
+c>G E<C | A>G A<B | c<E G z |
+e>d e<f | g>c e<d | c<c c z |
+
+X:11
+T: Esik eső, szép csendesen csepereg
+M:4/8
+L:1/16
+Q: 1/4=50
+K:B
+G>A B A G A B<E | D D3 B4 |
+A>B c B A G d>B | A A3 A2 z2 |
+d>f e/d/ c B A G | ^F G3 A4 | 
+A3 B c d3 | G3/2 d ^c B2A | G G3 G2 z2 |
+
+X: 116
+T: Csernátoni csendes patak
+M:4/8
+L:1/4
+K:C
+G<F E<G | G>E F<E | 
+G>F E<G | G>F F<E |
+E>E D<D | C>C D<D |
+E>E D<D | C>C C<C |

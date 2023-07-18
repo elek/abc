@@ -1,0 +1,424 @@
+I:abc-charset utf-8
+B:XXIV. Marosszéki népzene és néptánctábor
+
+X:1
+T: Sárgarépa, zöld uborka, zöld retek
+L:1/8
+M:4/4
+K:D
+S: Jobbágytelke
+A,A,DE FDEF | G2 F2 E2 z2 |
+FGAA BAAG | F E3 E2 z2 |
+FGAA BAAF | A F3 E2 z2 |
+DEED FFFE | E D3 D z2 |
+W: Sárgarépa, zöld uborka, zöld retek,
+W: De semmirevaló legényt szeretek.
+W: Én nem bánom ha semmire való is,
+W: Semmirevaló vagyok én magam is.
+W:
+W: Árok, árok, de mély árokba estem,
+W: Rólad, babám, minden gondom levettem.
+W: Úgy levettem, hogy még eszembe se jutsz.
+W: Hóságodér fizessen meg a Jézus.
+W: Jóságodér fizessen meg, áldjon meg,
+W: Olykor-olykor rólam is emlékezz meg.
+W: 
+W: Új a csizmám, el akarom szaggatni,
+W: Édesapám nem akarja engedni,
+W: Engedd, apám, nem a te pénzed ára,
+W: Édesanyám vette vásárfiába.
+
+X: 2
+T: Kék ibolya búra hajtotta fejét
+M:4/4
+L:1/4
+K:D
+D>E F D | A/A/ G/F/ | E<D D z |
+A A F<D | G/A/ B/G/ | F<E E z |
+A A F D | G/A/B/G/ | F/E/B/B/ A z |
+D>E F<D | A/A/G/F/ | E<D D z |
+W: Kék ibolya, búra hajtotta fejét,
+W: Nincsen aki megöntözze a tövét,
+W: Szállja le harmat, kék ibolya gyönge tövére,
+W: Most kaptam egy igaz, hű szeretőre
+W:
+W: Még a búza ki sem hányta a fejét
+W: Már a madár mind elhordta a szemét
+W: Mind elhordta az ő árva, gyenge fiának,
+W: A szeretőm mást keresett magának.
+
+X: 3
+T: A búzának meg kell érni
+M:4/4
+L:1/4
+K:D
+DFAA | ABAG | 
+B>A GG | G<A GF |
+F<F A A | GFED |
+EEEE | E>G B<A |
+GFE>F | E<D D z |
+W:A búzának meg kell érni,
+W:Szárazon kell learatni,
+W:Szivemnek meg kell hasadni,
+W:mert minden nap új bú éri,
+W:ejahaja, csuhajja.
+W:
+W: Ne menj kislány a tarlóra,
+W: Gyönge vagy még a sarlóra
+W: Elvágod a gyönge kezed,
+W: Ki süt nékem lágy kenyret
+W: ejehaja, csuhaja.
+W:
+W: Édesanyám mondta nékem,
+W: Mindek a szereté nékem,
+W: De én arra nem hallgattam,
+W: Titkon szeretőt tartottam, 
+W: ejehaja, csuhaja
+W: 
+W: Titkon szeress, ne tudja más,
+W: Tőled várok vigasztalást,
+W: Nem szerettem soha senkit,
+W: Csak a magam szeretőjét,
+W: ejehaja, csuhaja
+
+X:4
+T: Új korába' repedjen meg a csizmám
+M:4/4
+L:1/4
+K:C
+ddAA | e<e d> c | B<A A z |
+d<d c B | G<G B<A | A<G G z |
+F>G A A | _B A G (F/G/) | A<G F z |
+A>^G A<D | E<F G>F | E<D D z |
+W: Új korába' repedjen nem a csizmám,
+W: Ha én többet járok a lányok után.
+W: Eddig is csak azért jártam utána,
+W: Hogy a fene meg ne egye bújába.
+W:
+W: Kis koromban árvaságra jutottam,
+W: Nagy koromban katonának rukkoltam,
+W: Megtanultam, hogy kell tűrni, szenvedni,
+W: De még azt is, hogy kell szívből szeretni,
+W: 
+W: Titkon nyílik, titkon hervad a rózsa,
+W: Bárcsak ne szerettelek volna soha,
+W: Jobb lett volna az én árva fejemnek,
+W: Hagytam volna békit a szerelemnek
+
+X:5
+T: Úgy elmegyek, meglássátok
+M:4/4
+L:1/4
+K:C
+d/d/ c/c/ | c d | e d |
+e/d/ c/c/ | d A | G F | 
+c>d | A<G | D C | F G | 
+A/A/ A/G/ | F<C | D2 | D z |
+W: Úgy elmehgyek meglássátok,
+W: Soha hírem se halljátok.
+W: Amikor hírem halljátok,
+W: Gyász levelem olvassátok.
+W: 
+W: Bánat, bánat, csokros bánat.
+W: Mért raktál szívemre várat.
+W: Mért nem raktad olyan helyre,
+W: Honnét madár sem jön erre.
+W: 
+W: Engem anyám megátkozott,
+W: Még a világra se hozott,
+W: Ne legyen szerencsém soha,
+W: Az én ifijuságomba.
+W: 
+W: Sírok, Sírok kit más nem lát,
+W: Könnyem orcámra árkot ás,
+W: Árkot mosott az orcámra,
+W: Mint kis patak az utcára.
+
+X:6
+T: Jobbágy telkén nevelkedtem
+M:2/4
+L:1/8
+K:F
+CD DC | FG A2 | F2 z2 |
+CD DC | FG A2 | F2 z2 |
+AA AA | BA GG |
+BA GG | _EE G2 | D2 z2 |
+W: Jobbágytelkén nevelkedtem
+W: Jaj, de hamis leány lettem.
+W: Jobbágytelki legényeknek
+W: Leány kéne szegényeknek
+
+X:7
+T: Pista komám tekereg
+M:4/4
+L:1/4
+K:F
+d A d<d | e c A z |
+d>A d d | e c A z |
+c/B/A/G/ A F | G/A/ B A z |
+c/B/A/G/ A F/F/ | G/F/ E D z |
+W: Pista komám tekereg,
+W: Messze jár és jól keres.
+W: Menjen minél messzebb, legyen pénze,
+W: Csak maradjon itthon a felesége.
+W:
+W: Sej, haj, haj, szőlőgally,
+W: A hordóban jó bor van.
+W: Felhajtom a kancsót akárhányszor,
+W: Megcsókollak rózsám, akár százszor.
+
+X:8
+T: A kölpényi bíró kapujában
+S: Mezőkölpény
+M:4/4
+L:1/4
+K:C
+A/G/A/d/ c/A/ F | E<D D z |
+d/c/e/d/ c/B/c/c/ | d<A A z | 
+d/c/e/d/ c/B/c/c/ | d<A G z |
+A/G/A/d/ c/A/A/F/ | E<D D z |
+W: A kölpényi bíró kapujába
+W: Lehullott az akácfa virága.
+W: Énelőttem ne seperje senki.
+W: Szép a babám, meg ne ölelje senki.
+W: 
+W: Házunk előtt akácfa virágzik,
+W: Tetejébe bús gerlice tanyázik.
+W: Bús gerlice olyan szépen énekli:
+W: Jaj, de boldog, aki egymást szereti!
+
+X:9
+T:Fújja a szél a kis kölpényi hegyet
+S: Mezőkölpény
+M:4/4
+L:1/4
+K:C
+e d c/(BB/) | G A B G | D2 D z |
+d A d (c/d/) | e<d c<B | A2 A z |
+d A d (c/d/) | e/d/c/B/ A<G |
+e d c B | G<A B G | D2 D z |
+W: Fújja a szél a kiskölpényi hegyet
+W: Járnék hozzád babám, de nem lehet.
+W: Járnék hozzád, de rövid az idő,
+W: Isten véled, magyar lány szerető.
+W: 
+W: Azért amért be vagyok sorozva,
+W: Ne hidd babám, hogy leszek katona
+W: Lesz a bíró hozzám olyan szíves,
+W: Beírja, hogy nem vagyok húsz éves.
+W:
+W: Erdő, erdő, de szép kerek erdő,
+W: Közepébe van egy gyásztemető,
+W: Bácsrak engem is oda temetnének,
+W: Katonának soha ne vinnének
+
+X: 10
+T: Piros alma, nem hittem hogy édes légy
+S: Mezőkölpény
+M:4/4
+L:1/4
+K:C 
+d/d/ c/c/ d/e/c/d/ | e<c A z |
+A/B/c/d/ e/d/c/A/ | A G F z |
+A A d c | c/A/ F/G/ | A<F D z |
+c/d/e/d/ d/c/ A/G/ | D<D D z |
+W: Piros alma, nem hittem hogy édes légy
+W: Régi babám nem hittem, hogy csalfa légy
+W: Csalfasággal csaltad meg a szívemet,
+W: A Jóisten borítsa rád az eget.
+W: 
+W: Édesanyám ha te tudnád, amit én,
+W: Milyen gyöngeszívű lányod vagyok én,
+W: Olyan gyöngeszívű lányod vagyok én,
+W: Anyám, anyám, meghalok a babámér'.
+W:
+W: Sárgadinnye, görögdinnye inastól,
+W: Haragszik rám egy vénasszony fiastól.
+W: Ha haragszik, haragudjon magára,
+W: Nem szorultam az ő csámpás fiára
+W:
+W: Édesanyám ne tiltson a babámtól,
+W: Ha megakar menteni a haláltól,
+W: Én nem bánom, édesanyám tagadj meg,
+W: Mer' a szívem a babaámér' hasad meg.
+
+X: 11
+T: Engem anyám megátkozott
+S: Mezőkölpény
+M:2/4
+L:1/4
+K:C
+d/d/ c/G/ | c<d | e<d |
+e/d/ d/c/ | d A | G<F |
+(cd/)c/ A<G | D C F G | 
+c/_B/A/G/ A<F | D2 D z |
+W: Engem anyám megátkozott
+W: Mikor a világra hozott
+W: Hogy ne legyek boldog soha,
+W: Semmi ifijuságomba.
+W:
+W: Édesanyám sok szép szava,
+W: Kit fogadtam, kit nem soha
+W: Megfogadnám, de már késő.
+W: Hull a könnyem, mint az eső
+W:
+W: Hull a könnyem, mint az eső,
+W: Fá a szívem, kívül-belül.
+W: Fáj a szívem kívül-belül,
+W: Bánat szorítja kétfelől.
+W:
+W: Bánat, bánat, de nehéz vagy,
+W: De rég, hogy a szívemen vagy,
+W: Eladnálak, de nincs kinek,
+W: Bánatja van mindenkinek.
+W: 
+W: Utca, utca bánat utca,
+W: Bánat kővel van kirakva,
+W: Az én babám kirakatta,
+W: Hogy én sírva járjak rajta.
+
+X:12
+T: Édesanyám, hol van az édes tej
+S: Mezőkölpény
+M:1/4
+L:1/4
+K:F
+A/A/d/d/ c/d/e/f/ | e<d c z|
+e/c/d/d/ e/d/c/B/ | A<G F z |
+c c d d | c/B/ A/G/ | A F G z |
+C/C/F/F/ E/D/G/G/ | D<D D z |
+W: Édesanyám hol van az az édes tej,
+W: Amelyikkel katonának neveltél?
+W: Adtad volna tejedet a lányodnak,
+W: Ne neveltél volna fel katonának.
+W: 
+W: Édesanyám, mért szültél a világra?
+W: Mért nem dobtál a zavaros tiszába?
+W: Tisza vize vitt volna a Dunába,
+W: Most a szívem a babámért nem fája.
+
+X:13
+T: Fekete a babám szeme, szökjen ki
+S: Mezőkölpény
+M:4/4
+L:1/4
+K:F
+F/G/A/A/ F/G/A/A/ | D<D C z |
+G/G/G/G/ d/d/d/c/ | A<F F z |
+dcAF | d/d/d/c/ A/G/ D |
+G/G/ G/F/ d/c/ A/G/ | D<D D z |
+W: Fekete a babém szeme, szökjön ki
+W: Ha nálamnál szebbet akar szeretni.
+W: Adjon az ég szebbet, jobbat nálamnál,
+W: Nekem pedig, csak amilyen te voltál.
+W: 
+W: Végig mentem én az utcán dalolva
+W: Állt a babám a fogadó ajtóba.
+W: Köszöntem, de szavamat se fogadta.
+W: Haragszik rám, két szép szeme mulatta.
+W: 
+W: Piritusból csinálják a pálinkát,
+W: Azért nem lát senki rajtam jó gúnyát.
+W: Bár csinálnák édes tejből ecetből,
+W: A kocsmáros ne éljen a zsebemből
+
+X:14
+T: Vetettem violát
+M:2/4
+L:1/4
+K:C
+d/d/ d/B/ | d<G z/ |
+e/e/ e/c/ | e<d z/ |
+d/e/ ^f/g/ | a<g |
+e>c | B<A | G2 | G<z |
+W: Vetettem violát,
+W: Várom kikeletjét,
+W: Várom a babámnak,
+W: Haza jövetelét.
+W: 
+W: Kikőtt a viola,
+W: De nem igen teljes,
+W: Hazajött a babám,
+W: De nem igen kedves.
+W: 
+W: Hervad az a fűszáll
+W: Kit a kasza levág.
+W: Hervad az a kislány,
+W: Kit babája elhágy.
+
+X:15
+T: Elveszett a lovam
+L:1/4
+K:F
+Q:1/4=50
+d/4c/4 =B/4c/4 d/4 A3/2 |
+A/f e//d// c/ F3/2 |
+F G// A//d// c//A// F// G3/2 |
+A//B//A//G// D<(D D) |
+W: Elveszett a lovam
+W: A citrom erdőbe
+W: Elszakadt a rámás csizmám
+W: A sok keresésbe.
+W:
+W: Ne keresd a lovad,
+W: Mert bé vagyon hajtva,
+W: Vásárhelyi kaszárnyábana
+W: Szól a pergő rajta.
+W:
+W: Ismerem a lovam
+W: Öntött pergőjéről
+W: Ismerem a kis angyalom
+W: Csinos lépéséről.
+
+X:16
+T: A kibédi nagy hegy alatt
+M:1/4
+L:1/4
+K:G
+d/d/c/B/ e<e | d2 A2 |
+d/d/d/c/ B<A | F2 D2 |
+GABG | A<D B d |
+d/e/d/c/ B<A | G2 G z |
+W: A kibédi nagy hegy alatt
+W: Három forrás átok alatt,
+W: Aki abból vizet iszik,
+W: Babájától elbúcsuzik.
+W:
+W: Mer' én abból vizet ittam,
+W: s A babámtól elbúcsuztam.
+W: Úgy elbúcsuztam szegénytől,
+W: Mint az elmúlt az esztendőtől.
+W: 
+W: Galiczia közepébe
+W: Van egy kaszárnya építve.
+W: Abba' vannak a legények,
+W: Abba' búsulnak szegények.
+W: 
+W: Sárga lábú kis pacsirta,
+W: Ne szállj ablakomba sírva.
+W: Ne szállj, ne szállj oda sírva,
+W: Katonának vagyok írva.
+
+X:17
+T: Édesanyám, mért szültél a világra
+M:4/4
+L:1/4
+K:F
+d/c/c/c/ c/c/f/f/ | e<d c>z |
+d/d/d/d/ A/A/c/B/ | A G F>z |
+c<c dd | c/B/ A/G/ | AFG>z |
+C/C/F/F/ _E/_E/G/G/ | D<D D>z |
+W: Édesanyám mért szültél a világra,
+W: Kilenc fontos ágyúgolyó számára?
+W: Kilenc fontos ágyúgolyó eltalál,
+W: Azt se mondom, voltál-e édesanyám.
+W: 
+W: Édesanyám, hol van az az édes té',
+W: Amelyikkel katonának neveltél?
+W: Adtad volna a te kicsi lányodnak
+W: Ne neveltél volna fel katonának.
+W: 
+W: Édesanyám kiülött a kapuba,
+W: Úgy sirassa, hogy a fia katona.
+W: Édesanyám, ne sirasson engemet.
+W: Haza jövök három évre, ha lehet.

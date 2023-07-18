@@ -303,12 +303,6 @@ g/g/ g/b a g3/2 | d/d/ d c/ d c3/2 |
 f/f/ f g/ a g3/2 | b/b/ b g/ a g3/2 |
 f/f/ g/ f c d3/2 | G/G/ G/ G A G3/2 |
 
-X:150
-T:
-M:4/4
-L:1/4
-K:C
-
 X:2
 T:Mikor mentem a faluból kifelé
 M:10/8
@@ -335,12 +329,6 @@ G/A/ B A/G/ c | d>B d<c | G2 G z |
 d/_e/ f e/d/ g | a>f a<g | d2 d z |
 g>f e/d/e/f/ | g2 d2 | f g d/c/B/c/ | d2 A2 |
 G/A/ B A/G/ c | d g/g/ d c | G2 G z |
-
-X:151
-T:
-M:4/4
-L:1/4
-K:C
 
 X:33
 T:Hej, anyám, anyám, kedves édesanyám
